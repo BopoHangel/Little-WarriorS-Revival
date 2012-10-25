@@ -1,0 +1,11 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+2	Маленький мальчик	1	1401	0	20525,12854	20525,12825	10	Church	1	0	npc_talk03	0
+3	Ребенок	1	94	0	16825,23454	16825,23425	10	Church	1	0	npc_talk04	0
+4	Лука Тони	1	421	0	49212,5612	49212,5612	114	Church	1	0	npc_talk05	0
+5	Ричардсон	1	449	0	44900,4100	44900,4100	180	Church	1	0	npc_talk06	0
+6	Бабушка Мила	1	18	0	44925,6254	44925,6225	10	Church	1	0	npc_talk07	0
+7	Первосвященник	1	23	0	47000,4300	47000,4300	180	Church	1	0	m_Certificate	0
+//8	Магия Лето	1	421	0	47000,3540	47000,3540	180	Church	1	0	el_talk15	0
+9	Свидетельница	1	1130	0	46575,4775	46575,4775	180	Церковь	1	0	church_talk02	0
+10	Свидетель	1	1189	0	47375,4775	47375,4775	180	Церковь	1	0	church_talk01	0
+11	Прихожанка	1	430	0	20375,16425	20375,16425	210	Церковь	1	0	church_talk04	0

@@ -1,0 +1,2 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Коммандир Порта	1	453	9	30425,34537	30425,34537	177	Dark Swamp	87	0	r_talk261	0												

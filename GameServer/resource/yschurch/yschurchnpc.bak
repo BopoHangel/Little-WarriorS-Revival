@@ -1,0 +1,11 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+//custom
+0	Cleaner - Peter	1	840	0	20200,16300	20200,16300	180	Church	1	0	npc_talk01	0
+1	Monk - Lisa	1	430	0	20800,16400	20800,16400	180	Church	1	0	npc_talk02	0
+2	Little Boy	1	1057	0	20525,12854	20525,12825	10	Church	1	0	npc_talk03	0
+3	Kidsnapper	1	94	0	16825,23454	16825,23425	10	Church	1	0	npc_talk04	0
+4	Luca Tony	1	421	0	49212,5612	49212,5612	114	Church	1	0	npc_talk05	0
+5	Richardson	1	449	0	44900,4100	44900,4100	180	Church	1	0	npc_talk06	0
+6	Granny Mila	1	18	0	44925,6254	44925,6225	10	Church	1	0	npc_talk07	0
+7	High Priest	1	23	0	47000,4300	47000,4300	180	Church	1	0	npc_talk08	0
+8	Monk - Eli	1	430	0	47500,4700	47500,4700	180	Church	1	0	npc_talk09	0

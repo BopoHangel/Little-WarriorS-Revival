@@ -1,0 +1,6 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Лури	1	441	0	3800, 3200	3800, 3200	180	Abaddon level 7	115	0	r_talkmo2270	0
+2	Му	1	473	0	5900,5100	5900,5100	230	Абаддон 5	175	0	dina_talk12	0
+3	Альдебаран	1	473	0	17800,7700	17800,7700	40	Абаддон 6	215	0	dina_talk13	0
+4	Сага	1	473	0	20500,17000	20500,17000	310	Абаддон 7	260	0	dina_talk14	0
+5	Маска смерти	1	473	0	8500,19800	8500,19800	130	Абаддон 8	300	0	dina_talk15	0

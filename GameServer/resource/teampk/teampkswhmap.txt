@@ -1,0 +1,1 @@
+//ID	binded entity ID	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Portal name as	Remark

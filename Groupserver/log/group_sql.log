@@ -1,0 +1,354 @@
+[06-13 17:03:48]开始初始化数据库连接
+[06-13 17:03:48]开始初始化数据库连接, ip = [(local)], db = [GameDB]
+[06-13 17:03:48]数据库连接成功, 开始初始化数据表
+[06-13 17:03:48]开始检查 account表 完整性
+[06-13 17:03:48]表[account], 开始执行SQL语句[drop trigger [TR_D_Character_Friends]]
+[06-13 17:03:48]成功执行SQL!
+[06-13 17:03:48]表[account], 开始执行SQL语句[drop trigger [TR_I_Character]]
+[06-13 17:03:48]成功执行SQL!
+[06-13 17:03:48]表[account], 开始执行SQL语句[CREATE TRIGGER TR_D_Character_Friends ON character 
+				FOR DELETE 
+				AS
+				BEGIN
+					declare @@stat tinyint
+					declare @@gid  int
+					select @@stat =guild_stat,@@gid =guild_id from deleted
+					DELETE friends where friends.cha_id1 IN(select cha_id from deleted)
+					if(@@gid >0)
+					BEGIN
+						update guild set try_total =try_total -(case when @@stat>0 then 1 else 0 end),
+								member_total =member_total -(case when @@stat >0 then 0 else 1 end)
+							where guild_id >0 and guild_id =@@gid
+					END
+				END
+		]
+[06-13 17:03:48]成功执行SQL!
+[06-13 17:03:48]表[account], 开始执行SQL语句[CREATE TRIGGER TR_I_Character ON character
+				FOR INSERT
+				AS
+				BEGIN
+					declare @l_icon smallint
+					select @l_icon =convert(smallint,SUBSTRING(inserted.look,5,1)) from inserted
+					update character set icon =@l_icon where cha_id in (select cha_id from inserted)
+				END
+		]
+[06-13 17:03:48]成功执行SQL!
+[06-13 17:03:48]开始检查 公会表 完整性
+[06-13 17:03:48]表[character], 开始执行SQL语句[update character set mem_addr =0 where mem_addr != 0]
+[06-13 17:03:48]执行SQL, 但无结果返回
+[06-13 17:03:48]开始检查 param表 完整性
+[06-13 17:03:48]数据库初始化成功
+[06-13 17:04:01]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:04:01]成功执行SQL!
+[06-13 17:04:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:04:08]成功执行SQL!
+[06-13 17:04:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:04:18]成功执行SQL!
+[06-13 17:04:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:04:28]成功执行SQL!
+[06-13 17:04:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:04:38]成功执行SQL!
+[06-13 17:04:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:04:48]成功执行SQL!
+[06-13 17:04:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:04:58]成功执行SQL!
+[06-13 17:05:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:05:08]成功执行SQL!
+[06-13 17:05:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:05:18]成功执行SQL!
+[06-13 17:05:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:05:28]成功执行SQL!
+[06-13 17:05:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:05:38]成功执行SQL!
+[06-13 17:05:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[06-13 17:05:48]成功执行SQL!
+[06-13 17:05:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:05:58]成功执行SQL!
+[06-13 17:06:03]表[character], 开始执行SQL语句[update character set mem_addr =27576528 where cha_id =872]
+[06-13 17:06:03]成功执行SQL!
+[06-13 17:06:03]表[character], 开始执行SQL语句[update character set estop = getdate() where cha_id =872]
+[06-13 17:06:03]成功执行SQL!
+[06-13 17:06:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:06:08]成功执行SQL!
+[06-13 17:06:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:06:18]成功执行SQL!
+[06-13 17:06:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:06:28]成功执行SQL!
+[06-13 17:06:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:06:38]成功执行SQL!
+[06-13 17:06:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:06:48]成功执行SQL!
+[06-13 17:06:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:06:58]成功执行SQL!
+[06-13 17:07:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:07:08]成功执行SQL!
+[06-13 17:07:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:07:18]成功执行SQL!
+[06-13 17:07:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:07:28]成功执行SQL!
+[06-13 17:07:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:07:38]成功执行SQL!
+[06-13 17:07:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:07:48]成功执行SQL!
+[06-13 17:07:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:07:58]成功执行SQL!
+[06-13 17:08:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:08:08]成功执行SQL!
+[06-13 17:08:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:08:18]成功执行SQL!
+[06-13 17:08:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:08:28]成功执行SQL!
+[06-13 17:08:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:08:38]成功执行SQL!
+[06-13 17:08:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:08:48]成功执行SQL!
+[06-13 17:08:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:08:58]成功执行SQL!
+[06-13 17:09:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:09:08]成功执行SQL!
+[06-13 17:09:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:09:18]成功执行SQL!
+[06-13 17:09:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:09:28]成功执行SQL!
+[06-13 17:09:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:09:38]成功执行SQL!
+[06-13 17:09:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:09:48]成功执行SQL!
+[06-13 17:09:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:09:58]成功执行SQL!
+[06-13 17:10:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:10:08]成功执行SQL!
+[06-13 17:10:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:10:18]成功执行SQL!
+[06-13 17:10:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:10:28]成功执行SQL!
+[06-13 17:10:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:10:38]成功执行SQL!
+[06-13 17:10:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:10:48]成功执行SQL!
+[06-13 17:10:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:10:58]成功执行SQL!
+[06-13 17:11:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:11:08]成功执行SQL!
+[06-13 17:11:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:11:18]成功执行SQL!
+[06-13 17:11:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:11:28]成功执行SQL!
+[06-13 17:11:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:11:38]成功执行SQL!
+[06-13 17:11:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:11:48]成功执行SQL!
+[06-13 17:11:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:11:58]成功执行SQL!
+[06-13 17:12:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:12:08]成功执行SQL!
+[06-13 17:12:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:12:18]成功执行SQL!
+[06-13 17:12:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:12:28]成功执行SQL!
+[06-13 17:12:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:12:38]成功执行SQL!
+[06-13 17:12:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:12:48]成功执行SQL!
+[06-13 17:12:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:12:58]成功执行SQL!
+[06-13 17:13:37]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:14:09]成功执行SQL!
+[06-13 17:14:11]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:14:12]成功执行SQL!
+[06-13 17:14:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:14:18]成功执行SQL!
+[06-13 17:14:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:14:28]成功执行SQL!
+[06-13 17:14:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:14:38]成功执行SQL!
+[06-13 17:14:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:14:48]成功执行SQL!
+[06-13 17:14:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:14:58]成功执行SQL!
+[06-13 17:15:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:15:08]成功执行SQL!
+[06-13 17:15:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:15:18]成功执行SQL!
+[06-13 17:15:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:15:28]成功执行SQL!
+[06-13 17:15:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:15:38]成功执行SQL!
+[06-13 17:15:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:15:48]成功执行SQL!
+[06-13 17:15:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:15:58]成功执行SQL!
+[06-13 17:16:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:16:08]成功执行SQL!
+[06-13 17:16:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:16:18]成功执行SQL!
+[06-13 17:16:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:16:28]成功执行SQL!
+[06-13 17:16:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:16:38]成功执行SQL!
+[06-13 17:16:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:16:48]成功执行SQL!
+[06-13 17:16:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:16:58]成功执行SQL!
+[06-13 17:17:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:17:08]成功执行SQL!
+[06-13 17:17:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:17:18]成功执行SQL!
+[06-13 17:17:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:17:28]成功执行SQL!
+[06-13 17:17:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:17:38]成功执行SQL!
+[06-13 17:17:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:17:48]成功执行SQL!
+[06-13 17:17:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:17:58]成功执行SQL!
+[06-13 17:18:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:18:08]成功执行SQL!
+[06-13 17:18:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:18:18]成功执行SQL!
+[06-13 17:18:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:18:28]成功执行SQL!
+[06-13 17:18:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:18:38]成功执行SQL!
+[06-13 17:18:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:18:48]成功执行SQL!
+[06-13 17:18:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:18:58]成功执行SQL!
+[06-13 17:19:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:19:08]成功执行SQL!
+[06-13 17:19:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:19:18]成功执行SQL!
+[06-13 17:19:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:19:28]成功执行SQL!
+[06-13 17:19:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:19:38]成功执行SQL!
+[06-13 17:19:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:19:48]成功执行SQL!
+[06-13 17:19:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:19:58]成功执行SQL!
+[06-13 17:20:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:20:08]成功执行SQL!
+[06-13 17:20:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:20:18]成功执行SQL!
+[06-13 17:20:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:20:28]成功执行SQL!
+[06-13 17:20:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:20:38]成功执行SQL!
+[06-13 17:20:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:20:48]成功执行SQL!
+[06-13 17:20:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:20:58]成功执行SQL!
+[06-13 17:21:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:21:08]成功执行SQL!
+[06-13 17:21:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:21:18]成功执行SQL!
+[06-13 17:21:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:21:28]成功执行SQL!
+[06-13 17:21:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:21:38]成功执行SQL!
+[06-13 17:21:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:21:48]成功执行SQL!
+[06-13 17:21:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:21:58]成功执行SQL!
+[06-13 17:22:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:22:08]成功执行SQL!
+[06-13 17:22:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:22:18]成功执行SQL!
+[06-13 17:22:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:22:28]成功执行SQL!
+[06-13 17:22:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:22:38]成功执行SQL!
+[06-13 17:22:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:22:48]成功执行SQL!
+[06-13 17:22:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:22:58]成功执行SQL!
+[06-13 17:23:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:23:08]成功执行SQL!
+[06-13 17:23:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:23:18]成功执行SQL!
+[06-13 17:23:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:23:28]成功执行SQL!
+[06-13 17:23:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:23:38]成功执行SQL!
+[06-13 17:23:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:23:48]成功执行SQL!
+[06-13 17:23:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:23:58]成功执行SQL!
+[06-13 17:24:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:24:08]成功执行SQL!
+[06-13 17:24:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:24:18]成功执行SQL!
+[06-13 17:24:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:24:28]成功执行SQL!
+[06-13 17:24:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:24:38]成功执行SQL!
+[06-13 17:24:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:24:48]成功执行SQL!
+[06-13 17:24:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:24:58]成功执行SQL!
+[06-13 17:25:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:25:08]成功执行SQL!
+[06-13 17:25:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:25:18]成功执行SQL!
+[06-13 17:25:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:25:28]成功执行SQL!
+[06-13 17:25:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:25:38]成功执行SQL!
+[06-13 17:25:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:25:48]成功执行SQL!
+[06-13 17:25:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:25:58]成功执行SQL!
+[06-13 17:26:08]表[character], 开始执行SQL语句[update character set mem_addr =0 where cha_id =872]
+[06-13 17:26:08]成功执行SQL!
+[06-13 17:26:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:26:08]成功执行SQL!
+[06-13 17:26:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:26:18]成功执行SQL!
+[06-13 17:26:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:26:28]成功执行SQL!
+[06-13 17:26:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:26:38]成功执行SQL!
+[06-13 17:26:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:26:48]成功执行SQL!
+[06-13 17:26:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:26:58]成功执行SQL!
+[06-13 17:27:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:27:08]成功执行SQL!
+[06-13 17:27:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:27:18]成功执行SQL!
+[06-13 17:27:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:27:28]成功执行SQL!
+[06-13 17:27:30]表[character], 开始执行SQL语句[update character set mem_addr =27576528 where cha_id =872]
+[06-13 17:27:30]成功执行SQL!
+[06-13 17:27:30]表[character], 开始执行SQL语句[update character set estop = getdate() where cha_id =872]
+[06-13 17:27:30]成功执行SQL!
+[06-13 17:27:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:27:38]成功执行SQL!
+[06-13 17:27:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:27:48]成功执行SQL!
+[06-13 17:27:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:27:58]成功执行SQL!
+[06-13 17:28:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:28:08]成功执行SQL!
+[06-13 17:28:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:28:18]成功执行SQL!
+[06-13 17:28:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:28:28]成功执行SQL!
+[06-13 17:28:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:28:38]成功执行SQL!
+[06-13 17:28:48]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:28:48]成功执行SQL!
+[06-13 17:28:58]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:28:58]成功执行SQL!
+[06-13 17:29:08]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:29:08]成功执行SQL!
+[06-13 17:29:18]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:29:18]成功执行SQL!
+[06-13 17:29:28]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[06-13 17:29:28]成功执行SQL!
+[06-13 17:29:28]表[character], 开始执行SQL语句[update character set mem_addr =0 where cha_id =872]
+[06-13 17:29:28]成功执行SQL!
+[06-13 17:29:38]表[account], 开始执行SQL语句[insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[06-13 17:29:38]成功执行SQL!
+[06-13 17:29:38]表[account], 开始执行SQL语句[update account set last_ip='127.0.0.1',disc_reason ='未知Disconnect码：-33',last_leave =getdate() where act_id =1]
+[06-13 17:29:38]成功执行SQL!

@@ -1,0 +1,4 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Телепорт - Ниесу	1	11	7	6728,4223	6728,4223	219	PK Island	70	0	snow_derevna	0
+2	Заклинательница - Нала	1	419	3	6111,4456	6111,4456	-289	PK Island	20	0	BopoH	r_npcstate04
+3	Елочка	1	783	7	6528,5823	6528,5823	219	PK Island	70	0	0	0

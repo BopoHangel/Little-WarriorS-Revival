@@ -1,0 +1,2 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Странник	1	828	12	2491,8000	2491,8000	294	Abaddon	86	0	dydz_talk	0

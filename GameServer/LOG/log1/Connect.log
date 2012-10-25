@@ -1,0 +1,43 @@
+[06-08 13:35:25]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:35:30]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:35:35]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:35:40]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:35:45]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:35:50]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:35:55]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:00]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:05]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:10]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:15]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:20]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:25]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:30]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:35]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:40]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:45]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:36:50]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:37:17]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:37:21]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:37:26]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:37:31]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:37:36]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:37:41]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:37:46]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[06-08 13:37:50]GateServer Connected! IP = [127.0.0.1] port = 1971
+[06-08 13:37:50]ProcessData Gate_Connect
+[06-08 13:37:50]Exec OnGateConnected()
+[06-08 13:37:50][garner;eastgoaf;lonetower;07xmas2;abandonedcity;abandonedcity2;abandonedcity3;bountypk;darkblue2;darkswamp;dreamisland;greh;greh1;hell;hell2;hell3;hell4;hell5;jialebi;lonetower;mjing1;mjing2;mjing3;mjing4;PKmap;puzzleworld;puzzleworld2;starena33;teampk;winterland;yschurch;]
+[06-12 06:43:01]GateServer Connected! IP = [127.0.0.1] port = 1971
+[06-12 06:43:01]ProcessData Gate_Connect
+[06-12 06:43:01]Exec OnGateConnected()
+[06-12 06:43:01][garner;eastgoaf;lonetower;07xmas2;abandonedcity;abandonedcity2;abandonedcity3;bountypk;darkblue2;darkswamp;dreamisland;greh;greh1;hell;hell2;hell3;hell4;hell5;jialebi;lonetower;mjing1;mjing2;mjing3;mjing4;PKmap;puzzleworld;puzzleworld2;starena33;teampk;winterland;yschurch;]
+[06-12 07:12:08]GateServer Connected! IP = [127.0.0.1] port = 1971
+[06-12 07:12:08]ProcessData Gate_Connect
+[06-12 07:12:08]Exec OnGateConnected()
+[06-12 07:12:08][garner;eastgoaf;lonetower;07xmas2;abandonedcity;abandonedcity2;abandonedcity3;bountypk;darkblue2;darkswamp;dreamisland;greh;greh1;hell;hell2;hell3;hell4;hell5;jialebi;lonetower;mjing1;mjing2;mjing3;mjing4;PKmap;puzzleworld;puzzleworld2;starena33;teampk;winterland;yschurch;]
+[06-13 17:04:44]GateServer Connected! IP = [127.0.0.1] port = 1971
+[06-13 17:04:45]ProcessData Gate_Connect
+[06-13 17:04:45]Exec OnGateConnected()
+[06-13 17:04:45][garner;eastgoaf;lonetower;07xmas2;abandonedcity;abandonedcity2;abandonedcity3;bountypk;darkblue2;darkswamp;dreamisland;greh;greh1;hell;hell2;hell3;hell4;hell5;jialebi;lonetower;mjing1;mjing2;mjing3;mjing4;PKmap;puzzleworld;puzzleworld2;starena33;teampk;winterland;yschurch;]
+[06-13 17:29:44]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [远程主机强迫关闭了一个现有的连接。]
+[06-13 17:29:48]connection to GateServer failed, ip =127.0.0.1, port =1971.

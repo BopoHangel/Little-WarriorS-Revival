@@ -1,0 +1,3 @@
+//scripted by skyfear919@hotmail.com
+//ID	Class	endow item serial
+0	Newbie	289,641,8

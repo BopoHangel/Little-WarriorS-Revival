@@ -1,0 +1,17 @@
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	193	1	15100,18300	-1	hell3	10500,18300	1	Left
+2	193	1	15400,15000	-1	hell3	10200,10000	1	Top Left
+3	193	1	18900,14900	-1	hell3	19000,10000	1	Up
+4	193	1	22300,15200	-1	hell3	27500,10000	1	Top right
+5	193	1	22300,18300	-1	hell3	27100,18300	1	Right
+6	193	1	22300,21900	-1	hell3	27500,26900	1	Bottom Right
+7	193	1	18700,22200	-1	hell3	18800,26900	1	down
+8	193	1	15400,22000	-1	hell3	10300,27100	1	Bottom left
+9	193	1	10500,18100	-1	hell3	15100,18300	1	Return Left
+10	193	1	10200,10000	-1	hell3	15400,15000	1	Return Top Left
+11	193	1	19000,10000	-1	hell3	18900,14900	1	Return Up
+12	193	1	27500,10000	-1	hell3	22300,15200	1	Return Top Right
+13	193	1	27100,18300	-1	hell3	22300,18300	1	Return Right
+14	193	1	27500,26900	-1	hell3	22300,21900	1	Return Bottom Right
+15	193	1	18800,26900	-1	hell3	18700,22200	1	Return Below
+16	193	1	10300,27100	-1	hell3	15400,22000	1	Return Bottom Left

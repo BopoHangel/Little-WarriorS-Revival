@@ -1,0 +1,74 @@
+[06-13 17:17:31]Begin to enter map cha_id =872 enter--------------------------
+[06-13 17:17:31]cha_id = 872, begin read data from database: 
+[06-13 17:17:31]Successfully loaded the database, _get_row.
+[06-13 17:17:31]Setup data successful.
+[06-13 17:17:31]retrieve inventory data successful.
+[06-13 17:17:31]Retrieve temporary bag data successful.
+[06-13 17:17:31]read bank data successful. 
+[06-13 17:17:31]Read area map data successful.
+[06-13 17:17:31]Reading player's data successful.
+[06-13 17:17:31]Enter game scene ended Cha-BopoHange1+872(Cha-BopoHange1+872)
+[06-13 17:17:31]end entering map [Cha-BopoHange1+872]================
+
+[06-13 17:18:53]Begin to save character resource. 
+[06-13 17:18:53]Finished saving inventory. 
+[06-13 17:18:53]Save cha Cha-BopoHange1+872(Cha-BopoHange1+872) asset successful.
+[06-13 17:18:55]Begin to save character resource. 
+[06-13 17:18:55]Finished saving inventory. 
+[06-13 17:18:55]Save cha Cha-BopoHange1+872(Cha-BopoHange1+872) asset successful.
+[06-13 17:18:58]Begin to save character resource. 
+[06-13 17:18:58]Finished saving inventory. 
+[06-13 17:18:58]Save cha Cha-BopoHange1+872(Cha-BopoHange1+872) asset successful.
+[06-13 17:19:03]Begin to save character resource. 
+[06-13 17:19:03]Finished saving inventory. 
+[06-13 17:19:03]Save cha Cha-BopoHange1+872(Cha-BopoHange1+872) asset successful.
+[06-13 17:19:05]Begin to save character resource. 
+[06-13 17:19:05]Finished saving inventory. 
+[06-13 17:19:05]Save cha Cha-BopoHange1+872(Cha-BopoHange1+872) asset successful.
+[06-13 17:19:11]Begin to save character resource. 
+[06-13 17:19:11]Finished saving inventory. 
+[06-13 17:19:11]Save cha Cha-BopoHange1+872(Cha-BopoHange1+872) asset successful.
+[06-13 17:26:07]begin to leave map--------
+[06-13 17:26:07]Clear Player [Cha-BopoHange1+872]
+[06-13 17:26:07]cha_id = 872, begin goout
+[06-13 17:26:07]Cha-BopoHange1+872 start saving data.
+[06-13 17:26:07]Save all of the main character data successful. 
+[06-13 17:26:07]Finished saving inventory. 
+[06-13 17:26:07]save temporary bag completed.
+[06-13 17:26:07]Finished saving all the banks [0->0]. 
+[06-13 17:26:07]Successfully saved all ships data. 
+[06-13 17:26:07]Successfully saved all the data of the player.
+[06-13 17:26:07]cha_id = 872, goout
+[06-13 17:26:07]Leave map ended========
+
+[06-13 17:27:30]Begin to enter map cha_id =872 enter--------------------------
+[06-13 17:27:30]cha_id = 872, begin read data from database: 
+[06-13 17:27:30]Successfully loaded the database, _get_row.
+[06-13 17:27:30]Setup data successful.
+[06-13 17:27:30]retrieve inventory data successful.
+[06-13 17:27:30]Retrieve temporary bag data successful.
+[06-13 17:27:30]read bank data successful. 
+[06-13 17:27:30]Read area map data successful.
+[06-13 17:27:30]Reading player's data successful.
+[06-13 17:27:30]Enter game scene ended Cha-BopoHange1+872(Cha-BopoHange1+872)
+[06-13 17:27:30]end entering map [Cha-BopoHange1+872]================
+
+[06-13 17:29:28]begin to leave map--------
+[06-13 17:29:28]Clear Player [Cha-BopoHange1+872]
+[06-13 17:29:28]cha_id = 872, begin goout
+[06-13 17:29:28]Cha-BopoHange1+872 start saving data.
+[06-13 17:29:28]Save all of the main character data successful. 
+[06-13 17:29:28]Finished saving inventory. 
+[06-13 17:29:28]save temporary bag completed.
+[06-13 17:29:28]Finished saving all the banks [0->0]. 
+[06-13 17:29:28]Successfully saved all ships data. 
+[06-13 17:29:28]Successfully saved all the data of the player.
+[06-13 17:29:28]cha_id = 872, goout
+[06-13 17:29:28]Leave map ended========
+
+[06-13 17:29:38]Begin to enter map cha_id =872 enter--------------------------
+[06-13 17:29:38]cha_id = 872, begin read data from database: 
+[06-13 17:29:38]Successfully loaded the database, _get_row.
+[06-13 17:29:38]Appearance data verfication error. 
+[06-13 17:29:38]cha_id =872, when receiving character data, encountered error, lead to GameServer to GateServer disconnected
+[06-13 17:29:38]During the creation of new player (ID =872), distribution of internal saving failed!

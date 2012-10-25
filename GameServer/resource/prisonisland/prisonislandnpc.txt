@@ -1,0 +1,4 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+//1	Ќачальник тюрьмы	1	415	0	27300,21200	27300,21200	270	prisionland	142	0	prison_talk02	0
+//2	“юремный страж	1	415	0	28100,21800	28100,21800	180	Ља”ьµЇ	142	0	prison_talk01	0
+												

@@ -1,0 +1,100 @@
+[06-08 13:37:50]日志流被成功打开.
+[06-08 13:37:50]GameServer= [127.0.0.1] 来了,Socket数目= 1
+[06-08 13:37:50]收到GameServer [GameServer01] 地图串[garner;eastgoaf;lonetower;07xmas2;abandonedcity;abandonedcity2;abandonedcity3;bountypk;darkblue2;darkswamp;dreamisland;greh;greh1;hell;hell2;hell3;hell4;hell5;jialebi;lonetower;mjing1;mjing2;mjing3;mjing4;PKmap;puzzleworld;puzzleworld2;starena33;teampk;winterland;yschurch;] 共[31]个
+[06-08 13:37:50]未找到 [garner] 地图！！！
+[06-08 13:37:50]未找到 [eastgoaf] 地图！！！
+[06-08 13:37:50]未找到 [lonetower] 地图！！！
+[06-08 13:37:50]未找到 [07xmas2] 地图！！！
+[06-08 13:37:51]未找到 [abandonedcity] 地图！！！
+[06-08 13:37:51]未找到 [abandonedcity2] 地图！！！
+[06-08 13:37:51]未找到 [abandonedcity3] 地图！！！
+[06-08 13:37:51]未找到 [bountypk] 地图！！！
+[06-08 13:37:51]未找到 [darkblue2] 地图！！！
+[06-08 13:37:51]未找到 [darkswamp] 地图！！！
+[06-08 13:37:51]未找到 [dreamisland] 地图！！！
+[06-08 13:37:51]未找到 [greh] 地图！！！
+[06-08 13:37:51]未找到 [greh1] 地图！！！
+[06-08 13:37:51]未找到 [hell] 地图！！！
+[06-08 13:37:51]未找到 [hell2] 地图！！！
+[06-08 13:37:51]未找到 [hell3] 地图！！！
+[06-08 13:37:51]未找到 [hell4] 地图！！！
+[06-08 13:37:51]未找到 [hell5] 地图！！！
+[06-08 13:37:51]未找到 [jialebi] 地图！！！
+[06-08 13:37:51]未找到 [lonetower] 地图！！！
+[06-08 13:37:51]未找到 [mjing1] 地图！！！
+[06-08 13:37:51]未找到 [mjing2] 地图！！！
+[06-08 13:37:51]未找到 [mjing3] 地图！！！
+[06-08 13:37:51]未找到 [mjing4] 地图！！！
+[06-08 13:37:51]未找到 [PKmap] 地图！！！
+[06-08 13:37:51]未找到 [puzzleworld] 地图！！！
+[06-08 13:37:51]未找到 [puzzleworld2] 地图！！！
+[06-08 13:37:51]未找到 [starena33] 地图！！！
+[06-08 13:37:51]未找到 [teampk] 地图！！！
+[06-08 13:37:51]未找到 [winterland] 地图！！！
+[06-08 13:37:51]未找到 [yschurch] 地图！！！
+[06-08 13:37:51]添加GameServer [GameServer01] 成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [garner] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [eastgoaf] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [lonetower] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [07xmas2] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [abandonedcity] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [abandonedcity2] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [abandonedcity3] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [bountypk] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [darkblue2] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [darkswamp] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [dreamisland] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [greh] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [greh1] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [hell] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [hell2] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [hell3] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [hell4] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [hell5] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [jialebi] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [lonetower] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [mjing1] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [mjing2] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [mjing3] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [mjing4] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [PKmap] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [puzzleworld] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [puzzleworld2] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [starena33] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [teampk] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [winterland] 地图成功
+[06-08 13:37:51]添加 [GameServer01] 上的 [yschurch] 地图成功
+[06-08 13:41:16]GameServer= [127.0.0.1] 走了,Socket数目= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[06-08 13:41:16]删除掉 [GameServer01]
+[06-08 13:41:16]删除地图 [garner]
+[06-08 13:41:16]删除地图 [eastgoaf]
+[06-08 13:41:16]删除地图 [lonetower]
+[06-08 13:41:16]删除地图 [07xmas2]
+[06-08 13:41:16]删除地图 [abandonedcity]
+[06-08 13:41:16]删除地图 [abandonedcity2]
+[06-08 13:41:16]删除地图 [abandonedcity3]
+[06-08 13:41:16]删除地图 [bountypk]
+[06-08 13:41:16]删除地图 [darkblue2]
+[06-08 13:41:16]删除地图 [darkswamp]
+[06-08 13:41:16]删除地图 [dreamisland]
+[06-08 13:41:16]删除地图 [greh]
+[06-08 13:41:16]删除地图 [greh1]
+[06-08 13:41:16]删除地图 [hell]
+[06-08 13:41:16]删除地图 [hell2]
+[06-08 13:41:16]删除地图 [hell3]
+[06-08 13:41:16]删除地图 [hell4]
+[06-08 13:41:16]删除地图 [hell5]
+[06-08 13:41:16]删除地图 [jialebi]
+[06-08 13:41:16]删除地图 [lonetower]
+[06-08 13:41:16]删除地图 [mjing1]
+[06-08 13:41:16]删除地图 [mjing2]
+[06-08 13:41:16]删除地图 [mjing3]
+[06-08 13:41:16]删除地图 [mjing4]
+[06-08 13:41:16]删除地图 [PKmap]
+[06-08 13:41:16]删除地图 [puzzleworld]
+[06-08 13:41:16]删除地图 [puzzleworld2]
+[06-08 13:41:16]删除地图 [starena33]
+[06-08 13:41:16]删除地图 [teampk]
+[06-08 13:41:16]删除地图 [winterland]
+[06-08 13:41:16]删除地图 [yschurch]
+[06-08 13:41:16]由于GameServer 故障，要通知 0 个用户下线

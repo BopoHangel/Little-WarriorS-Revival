@@ -1,0 +1,2 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1 Мистический Бакалейщик	1	17	12	7300,7000	7300,7000	175	Icicle Mirage	129	0	smzh_talk	0

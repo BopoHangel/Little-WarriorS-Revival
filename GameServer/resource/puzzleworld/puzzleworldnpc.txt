@@ -1,0 +1,5 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+0	Телепортер ДВ 1	1	790	0	52050,1752	52050,1752	174	Demonic World	97	0	sky_14	0
+1	Телепортер ДВ	1	790	0	52250,53152	52250,53152	354	Demonic World	24	0	sky_14	0
+2	Телепортер ДВ 7	1	790	0	2250,53052	2250,53052	354	Demonic World	24	0	sky_14	0
+3	Телепортер ДВ 11	1	790	0	2550,1752	2550,1752	174	Demonic World	97	0	sky_14	0

@@ -1,0 +1,9 @@
+[06-08 13:35:11]script[init_entry]cost time too long time = 94
+[06-12 07:13:55]Script[EightyLv_ExpAdd] takes too long time time =47
+[06-13 17:05:41]Script[can_open_entry_hell] takes too long time time =172
+[06-13 17:13:41]Script[map_copy_run_garner] takes too long time time =1981
+[06-13 17:13:46]Script[map_copy_run_hell3] takes too long time time =463
+[06-13 17:14:07]Script[can_open_entry_hell] takes too long time time =410
+[06-13 17:14:08]Script[can_open_entry_hell] takes too long time time =360
+[06-13 17:20:03]Script[after_destroy_entry_starena33] takes too long time time =25
+[06-13 17:27:30]Script[after_player_login_mjing3] takes too long time time =34

@@ -1,0 +1,6 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Томас Туту	1	415	0	32900,20700	32900,20700	230	Demonic World	94	0	el_talk08	0
+2	Телепортер 1	1	790	0	51650,1853	51650,1853	174	Demonic World	97	0	sky_14	0
+3	Телепортер 5	1	790	0	51750,53052	51750,53052	354	Demonic World	24	0	sky_14	0
+4	Телепортер 7	1	790	0	2750,53052	2750,53052	354	Demonic World	24	0	sky_14	0
+5	Телепортер 11	1	790	0	2750,1753	91150,104353	174	Demonic World	97	0	sky_14	0

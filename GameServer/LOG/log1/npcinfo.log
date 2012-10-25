@@ -1,0 +1,1496 @@
+[06-08 13:34:59]AddNpcInfo:npcid = 1name = Секретарь Аргента - Сальвьерmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 2name = Кузнец - Голдиmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 3name = Горожанка - Маргаретmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 4name = Бабушка Бельдиmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 5name = Маленький Даниэльmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 6name = Торговец Чироmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 7name = Целитель - Дитоmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 8name = Банкир - Моникаmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 9name = Трактирщица - Мэриамmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 10name = Форбейmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 11name = Моряк - Коддиmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 12name = Генерал Вильямmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 13name = Медсестра Джинаmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 14name = Посол Шайтана - Ксибаmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 15name = Правитель Аргента - Рональдmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 16name = Старик - Пачкуляmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 17name = Бакалейщик - Джимбериmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 18name = Портниха - Бабушка Нилияmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 19name = Помощник - Рориmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 20name = Барменша - Доннаmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 21name = Пьянчуга - Антонийmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 22name = Юноша - Томмиmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 23name = Мануфактурщик - Дезмонmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 24name = Контрабандист Бунниmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 25name = Глава Флота - Дессароmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 26name = Официантка - Монаmapid = 1areaid = 10 
+[06-08 13:34:59]AddNpcInfo:npcid = 27name = Моряк - Диоmapid = 1areaid = 10 
+[06-08 13:34:59]AddNpcInfo:npcid = 28name = Купец - Сэнджейmapid = 1areaid = 10 
+[06-08 13:34:59]AddNpcInfo:npcid = 29name = Доктор - Масаmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 30name = Банкир - Макурдоmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 31name = Кузнец - Фарлингтонmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 32name = Девочка - Синдиmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 33name = Посол Шайтана - Аликсmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 34name = Рабочий - Уэслиmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 35name = Трактирщица - Бабушка Майяmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 36name = Портной - Дитерmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 37name = Посол Аргента - Ятаmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 38name = Капитан стражи - Маллакmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 39name = Бакалейщик - Шинаmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 40name = Девочка - Риолиmapid = 1areaid = 10 
+[06-08 13:34:59]AddNpcInfo:npcid = 41name = Штаб Флота - Генерал Кенmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 42name = Штаб Флота - Полковник Максиmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 43name = Морфейка - Фреяmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 44name = Стражник - Ниссонmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 45name = Стражник - Сонниmapid = 1areaid = 8 
+[06-08 13:34:59]AddNpcInfo:npcid = 46name = Прохожая - Барбиmapid = 1areaid = 12 
+[06-08 13:34:59]AddNpcInfo:npcid = 47name = Патрульный - Маркусаmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 48name = Доктор - Чивоmapid = 1areaid = 54 
+[06-08 13:34:59]AddNpcInfo:npcid = 49name = Доктор - Миносеваmapid = 1areaid = 53 
+[06-08 13:34:59]AddNpcInfo:npcid = 50name = Фуксmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 51name = Кситронmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 52name = Кентароmapid = 1areaid = 55 
+[06-08 13:34:59]AddNpcInfo:npcid = 53name = Бабуmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 54name = Мелиссаmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 55name = Гадорmapid = 1areaid = 58 
+[06-08 13:34:59]AddNpcInfo:npcid = 56name = Малыш Ковенmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 57name = Тетушка Мэриmapid = 1areaid = 3 
+[06-08 13:34:59]AddNpcInfo:npcid = 58name = Ваалаmapid = 1areaid = 61 
+[06-08 13:34:59]AddNpcInfo:npcid = 59name = Александисmapid = 1areaid = 58 
+[06-08 13:34:59]AddNpcInfo:npcid = 60name = Старик Ковенmapid = 1areaid = 63 
+[06-08 13:34:59]AddNpcInfo:npcid = 61name = Морской советник - Аленаmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 62name = Корабел - Синбадmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 63name = Диспетчер порта - Шерлиmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 64name = Дурьянmapid = 1areaid = 58 
+[06-08 13:34:59]AddNpcInfo:npcid = 65name = Лейнаmapid = 1areaid = 58 
+[06-08 13:34:59]AddNpcInfo:npcid = 66name = Дон Питтmapid = 1areaid = 61 
+[06-08 13:34:59]AddNpcInfo:npcid = 67name = Профессор Фейнmapid = 1areaid = 61 
+[06-08 13:34:59]AddNpcInfo:npcid = 68name = Гидерийmapid = 1areaid = 61 
+[06-08 13:34:59]AddNpcInfo:npcid = 69name = Охранник - Кейлmapid = 1areaid = 55 
+[06-08 13:34:59]AddNpcInfo:npcid = 70name = Берриmapid = 1areaid = 55 
+[06-08 13:34:59]AddNpcInfo:npcid = 71name = Геляmapid = 1areaid = 55 
+[06-08 13:34:59]AddNpcInfo:npcid = 72name = Грегmapid = 1areaid = 55 
+[06-08 13:34:59]AddNpcInfo:npcid = 73name = Линдаmapid = 1areaid = 63 
+[06-08 13:34:59]AddNpcInfo:npcid = 74name = Дадаmapid = 1areaid = 63 
+[06-08 13:34:59]AddNpcInfo:npcid = 75name = Грегmapid = 1areaid = 63 
+[06-08 13:34:59]AddNpcInfo:npcid = 76name = Предводитель клана - Альбудаmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 77name = Рабочий-Оейmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 78name = Моряк - Мойаmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 79name = Банкир - Юдисmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 80name = Береговой страж - Франкоmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 81name = Кузнец - Ковальmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 82name = Девочка - Хэленmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 83name = Бакалейщик - Амосmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 84name = Трактирщица - Харкенmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 85name = Сиделка - Лендиmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 86name = Пират Декиmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 87name = Корабел - Франклинmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 88name = Штаб флота - Адмирал Никmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 89name = Глава Шайтана - Плутоmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 90name = Прохожий - Вовоmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 91name = Помощник - Тинтикmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 92name = Песчаный бандит - Супермуньmapid = 2areaid = 15 
+[06-08 13:34:59]AddNpcInfo:npcid = 93name = Принц-тритон - Хассанmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 94name = Музыкант - Шармельmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 95name = Благочестивая жрица - Адаmapid = 2areaid = 14 
+[06-08 13:34:59]AddNpcInfo:npcid = 96name = Прохожий - Фейруmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 97name = Глава гильдии - Форланmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 98name = Страж - Майклmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 99name = Целительница Шайлаmapid = 2areaid = 13 
+[06-08 13:34:59]AddNpcInfo:npcid = 100name = Минеллиmapid = 2areaid = 62 
+[06-08 13:34:59]AddNpcInfo:npcid = 101name = Августианmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 102name = Джейнааmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 103name = Дитароmapid = 2areaid = 57 
+[06-08 13:34:59]AddNpcInfo:npcid = 104name = Рубен Актийmapid = 2areaid = 15 
+[06-08 13:34:59]AddNpcInfo:npcid = 105name = Мерриксmapid = 2areaid = 15 
+[06-08 13:34:59]AddNpcInfo:npcid = 106name = Гадасmapid = 2areaid = 15 
+[06-08 13:34:59]AddNpcInfo:npcid = 107name = Кавойскиmapid = 2areaid = 57 
+[06-08 13:34:59]AddNpcInfo:npcid = 108name = Бекmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 109name = Хэмmapid = 2areaid = 14 
+[06-08 13:34:59]AddNpcInfo:npcid = 110name = Лавьюриmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 111name = Робинmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 112name = Диспетчер порта - Маркmapid = 2areaid = 16 
+[06-08 13:34:59]AddNpcInfo:npcid = 113name = Солнmapid = 2areaid = 62 
+[06-08 13:34:59]AddNpcInfo:npcid = 114name = Одессийmapid = 2areaid = 62 
+[06-08 13:34:59]AddNpcInfo:npcid = 115name = Момоmapid = 2areaid = 62 
+[06-08 13:34:59]AddNpcInfo:npcid = 116name = Венонаmapid = 2areaid = 57 
+[06-08 13:34:59]AddNpcInfo:npcid = 117name = Фей Фейmapid = 2areaid = 57 
+[06-08 13:34:59]AddNpcInfo:npcid = 118name = Маркусmapid = 2areaid = 57 
+[06-08 13:34:59]AddNpcInfo:npcid = 119name = Кузнец - Башmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 120name = Бакалейщик - Палпинmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 121name = Целитель - Дайшаmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 122name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 123name = Глава Ледыни - Рейноmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 124name = Монарх Ледыни - Масmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 125name = Банкир - Белиндаmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 126name = Официантка - Бабараmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 127name = Портной - Ханнаmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 128name = Трактирщик - Яскиmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 129name = Малыш Моmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 130name = Вынньmapid = 3areaid = 19 
+[06-08 13:34:59]AddNpcInfo:npcid = 131name = Лессиmapid = 3areaid = 19 
+[06-08 13:34:59]AddNpcInfo:npcid = 132name = Додоmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 133name = Лямутmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 134name = Айрисисmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 135name = Елунаmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 136name = Шередаmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 137name = Чаоmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 138name = Клубничкаmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 139name = Еваmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 140name = Сюзаннаmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 141name = Каролинаmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 142name = Джемесонmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 143name = Люсиmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 144name = Юландорmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 145name = Кетанmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 146name = Девушка Еленаmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 147name = Диспетчер порта - Силионmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 148name = Корабел - Джорджmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 149name = Моряк - Аяксmapid = 3areaid = 21 
+[06-08 13:34:59]AddNpcInfo:npcid = 150name = Виллиmapid = 3areaid = 59 
+[06-08 13:34:59]AddNpcInfo:npcid = 151name = Зурбиmapid = 3areaid = 59 
+[06-08 13:34:59]AddNpcInfo:npcid = 152name = Гасардийmapid = 3areaid = 59 
+[06-08 13:34:59]AddNpcInfo:npcid = 153name = Джули Огонекmapid = 3areaid = 59 
+[06-08 13:34:59]AddNpcInfo:npcid = 154name = Алкарmapid = 3areaid = 59 
+[06-08 13:34:59]AddNpcInfo:npcid = 155name = Оракул - Лунный Светmapid = 3areaid = 60 
+[06-08 13:34:59]AddNpcInfo:npcid = 156name = Зевсmapid = 3areaid = 60 
+[06-08 13:34:59]AddNpcInfo:npcid = 157name = Хохоmapid = 3areaid = 60 
+[06-08 13:34:59]AddNpcInfo:npcid = 158name = Неляmapid = 3areaid = 64 
+[06-08 13:34:59]AddNpcInfo:npcid = 159name = Лулуmapid = 3areaid = 64 
+[06-08 13:34:59]AddNpcInfo:npcid = 160name = Миккилонmapid = 3areaid = 64 
+[06-08 13:34:59]AddNpcInfo:npcid = 161name = Фардиmapid = 3areaid = 64 
+[06-08 13:34:59]AddNpcInfo:npcid = 162name = Джернисmapid = 3areaid = 56 
+[06-08 13:34:59]AddNpcInfo:npcid = 163name = Бабушка Донгmapid = 3areaid = 56 
+[06-08 13:34:59]AddNpcInfo:npcid = 164name = Нанаmapid = 3areaid = 56 
+[06-08 13:34:59]AddNpcInfo:npcid = 165name = Старик-предсказательmapid = 3areaid = 56 
+[06-08 13:34:59]AddNpcInfo:npcid = 166name = Грузчик - Хурадарmapid = 1areaid = 55 
+[06-08 13:34:59]AddNpcInfo:npcid = 167name = Грузчик - Мокинmapid = 1areaid = 58 
+[06-08 13:34:59]AddNpcInfo:npcid = 168name = Диспетчер порта - Доморуmapid = 2areaid = 77 
+[06-08 13:34:59]AddNpcInfo:npcid = 169name = Диспетчер порта - Баросmapid = 2areaid = 79 
+[06-08 13:34:59]AddNpcInfo:npcid = 170name = Диспетчер порта - Луиджиmapid = 2areaid = 75 
+[06-08 13:34:59]AddNpcInfo:npcid = 171name = Диспетчер порта - Диданmapid = 2areaid = 80 
+[06-08 13:34:59]AddNpcInfo:npcid = 172name = Диспетчер порта - Даннийmapid = 2areaid = 81 
+[06-08 13:34:59]AddNpcInfo:npcid = 173name = Диспетчер порта - Даругаmapid = 1areaid = 72 
+[06-08 13:34:59]AddNpcInfo:npcid = 174name = Грузчик - Алкинсmapid = 3areaid = 59 
+[06-08 13:34:59]AddNpcInfo:npcid = 175name = Тайmapid = 3areaid = 60 
+[06-08 13:34:59]AddNpcInfo:npcid = 176name = Диспетчер порта - Фарделлmapid = 1areaid = 74 
+[06-08 13:34:59]AddNpcInfo:npcid = 177name = Диспетчер порта - Уайткомбиmapid = 1areaid = 73 
+[06-08 13:34:59]AddNpcInfo:npcid = 178name = Диспетчер порта - Грегориmapid = 3areaid = 83 
+[06-08 13:34:59]AddNpcInfo:npcid = 179name = Диспетчер порта - Уитниmapid = 1areaid = 71 
+[06-08 13:34:59]AddNpcInfo:npcid = 180name = Диспетчер порта - Буниmapid = 2areaid = 76 
+[06-08 13:34:59]AddNpcInfo:npcid = 181name = Диспетчер порта - Рамусmapid = 3areaid = 85 
+[06-08 13:34:59]AddNpcInfo:npcid = 182name = Диспетчер порта - Сокmapid = 2areaid = 82 
+[06-08 13:34:59]AddNpcInfo:npcid = 183name = Диспетчер порта - Тибаmapid = 2areaid = 78 
+[06-08 13:34:59]AddNpcInfo:npcid = 184name = Страж Аргента - Питерmapid = 1areaid = 1 
+[06-08 13:34:59]AddNpcInfo:npcid = 185name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-08 13:34:59]AddNpcInfo:npcid = 186name = Диспетчер порта - Одиmapid = 3areaid = 84 
+[06-08 13:34:59]AddNpcInfo:npcid = 187name = Первосвященник - Гэнонmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 1name = Секретарь Аргента - Сальвьерmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 2name = Кузнец - Голдиmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 3name = Горожанка - Маргаретmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 4name = Бабушка Бельдиmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 5name = Маленький Даниэльmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 6name = Торговец Чироmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 7name = Целитель - Дитоmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 8name = Банкир - Моникаmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 9name = Трактирщица - Мэриамmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 10name = Форбейmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 11name = Моряк - Коддиmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 12name = Генерал Вильямmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 13name = Медсестра Джинаmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 14name = Посол Шайтана - Ксибаmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 15name = Правитель Аргента - Рональдmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 16name = Старик - Пачкуляmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 17name = Бакалейщик - Джимбериmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 18name = Портниха - Бабушка Нилияmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 19name = Помощник - Рориmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 20name = Барменша - Доннаmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 21name = Пьянчуга - Антонийmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 22name = Юноша - Томмиmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 23name = Мануфактурщик - Дезмонmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 24name = Контрабандист Бунниmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 25name = Глава Флота - Дессароmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 26name = Официантка - Монаmapid = 1areaid = 10 
+[06-08 13:37:03]AddNpcInfo:npcid = 27name = Моряк - Диоmapid = 1areaid = 10 
+[06-08 13:37:03]AddNpcInfo:npcid = 28name = Купец - Сэнджейmapid = 1areaid = 10 
+[06-08 13:37:03]AddNpcInfo:npcid = 29name = Доктор - Масаmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 30name = Банкир - Макурдоmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 31name = Кузнец - Фарлингтонmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 32name = Девочка - Синдиmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 33name = Посол Шайтана - Аликсmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 34name = Рабочий - Уэслиmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 35name = Трактирщица - Бабушка Майяmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 36name = Портной - Дитерmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 37name = Посол Аргента - Ятаmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 38name = Капитан стражи - Маллакmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 39name = Бакалейщик - Шинаmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 40name = Девочка - Риолиmapid = 1areaid = 10 
+[06-08 13:37:03]AddNpcInfo:npcid = 41name = Штаб Флота - Генерал Кенmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 42name = Штаб Флота - Полковник Максиmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 43name = Морфейка - Фреяmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 44name = Стражник - Ниссонmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 45name = Стражник - Сонниmapid = 1areaid = 8 
+[06-08 13:37:03]AddNpcInfo:npcid = 46name = Прохожая - Барбиmapid = 1areaid = 12 
+[06-08 13:37:03]AddNpcInfo:npcid = 47name = Патрульный - Маркусаmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 48name = Доктор - Чивоmapid = 1areaid = 54 
+[06-08 13:37:03]AddNpcInfo:npcid = 49name = Доктор - Миносеваmapid = 1areaid = 53 
+[06-08 13:37:03]AddNpcInfo:npcid = 50name = Фуксmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 51name = Кситронmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 52name = Кентароmapid = 1areaid = 55 
+[06-08 13:37:03]AddNpcInfo:npcid = 53name = Бабуmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 54name = Мелиссаmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 55name = Гадорmapid = 1areaid = 58 
+[06-08 13:37:03]AddNpcInfo:npcid = 56name = Малыш Ковенmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 57name = Тетушка Мэриmapid = 1areaid = 3 
+[06-08 13:37:03]AddNpcInfo:npcid = 58name = Ваалаmapid = 1areaid = 61 
+[06-08 13:37:03]AddNpcInfo:npcid = 59name = Александисmapid = 1areaid = 58 
+[06-08 13:37:03]AddNpcInfo:npcid = 60name = Старик Ковенmapid = 1areaid = 63 
+[06-08 13:37:03]AddNpcInfo:npcid = 61name = Морской советник - Аленаmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 62name = Корабел - Синбадmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 63name = Диспетчер порта - Шерлиmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 64name = Дурьянmapid = 1areaid = 58 
+[06-08 13:37:03]AddNpcInfo:npcid = 65name = Лейнаmapid = 1areaid = 58 
+[06-08 13:37:03]AddNpcInfo:npcid = 66name = Дон Питтmapid = 1areaid = 61 
+[06-08 13:37:03]AddNpcInfo:npcid = 67name = Профессор Фейнmapid = 1areaid = 61 
+[06-08 13:37:03]AddNpcInfo:npcid = 68name = Гидерийmapid = 1areaid = 61 
+[06-08 13:37:03]AddNpcInfo:npcid = 69name = Охранник - Кейлmapid = 1areaid = 55 
+[06-08 13:37:03]AddNpcInfo:npcid = 70name = Берриmapid = 1areaid = 55 
+[06-08 13:37:03]AddNpcInfo:npcid = 71name = Геляmapid = 1areaid = 55 
+[06-08 13:37:03]AddNpcInfo:npcid = 72name = Грегmapid = 1areaid = 55 
+[06-08 13:37:03]AddNpcInfo:npcid = 73name = Линдаmapid = 1areaid = 63 
+[06-08 13:37:03]AddNpcInfo:npcid = 74name = Дадаmapid = 1areaid = 63 
+[06-08 13:37:03]AddNpcInfo:npcid = 75name = Грегmapid = 1areaid = 63 
+[06-08 13:37:03]AddNpcInfo:npcid = 76name = Предводитель клана - Альбудаmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 77name = Рабочий-Оейmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 78name = Моряк - Мойаmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 79name = Банкир - Юдисmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 80name = Береговой страж - Франкоmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 81name = Кузнец - Ковальmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 82name = Девочка - Хэленmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 83name = Бакалейщик - Амосmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 84name = Трактирщица - Харкенmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 85name = Сиделка - Лендиmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 86name = Пират Декиmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 87name = Корабел - Франклинmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 88name = Штаб флота - Адмирал Никmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 89name = Глава Шайтана - Плутоmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 90name = Прохожий - Вовоmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 91name = Помощник - Тинтикmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 92name = Песчаный бандит - Супермуньmapid = 2areaid = 15 
+[06-08 13:37:03]AddNpcInfo:npcid = 93name = Принц-тритон - Хассанmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 94name = Музыкант - Шармельmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 95name = Благочестивая жрица - Адаmapid = 2areaid = 14 
+[06-08 13:37:03]AddNpcInfo:npcid = 96name = Прохожий - Фейруmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 97name = Глава гильдии - Форланmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 98name = Страж - Майклmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 99name = Целительница Шайлаmapid = 2areaid = 13 
+[06-08 13:37:03]AddNpcInfo:npcid = 100name = Минеллиmapid = 2areaid = 62 
+[06-08 13:37:03]AddNpcInfo:npcid = 101name = Августианmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 102name = Джейнааmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 103name = Дитароmapid = 2areaid = 57 
+[06-08 13:37:03]AddNpcInfo:npcid = 104name = Рубен Актийmapid = 2areaid = 15 
+[06-08 13:37:03]AddNpcInfo:npcid = 105name = Мерриксmapid = 2areaid = 15 
+[06-08 13:37:03]AddNpcInfo:npcid = 106name = Гадасmapid = 2areaid = 15 
+[06-08 13:37:03]AddNpcInfo:npcid = 107name = Кавойскиmapid = 2areaid = 57 
+[06-08 13:37:03]AddNpcInfo:npcid = 108name = Бекmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 109name = Хэмmapid = 2areaid = 14 
+[06-08 13:37:03]AddNpcInfo:npcid = 110name = Лавьюриmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 111name = Робинmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 112name = Диспетчер порта - Маркmapid = 2areaid = 16 
+[06-08 13:37:03]AddNpcInfo:npcid = 113name = Солнmapid = 2areaid = 62 
+[06-08 13:37:03]AddNpcInfo:npcid = 114name = Одессийmapid = 2areaid = 62 
+[06-08 13:37:03]AddNpcInfo:npcid = 115name = Момоmapid = 2areaid = 62 
+[06-08 13:37:03]AddNpcInfo:npcid = 116name = Венонаmapid = 2areaid = 57 
+[06-08 13:37:03]AddNpcInfo:npcid = 117name = Фей Фейmapid = 2areaid = 57 
+[06-08 13:37:03]AddNpcInfo:npcid = 118name = Маркусmapid = 2areaid = 57 
+[06-08 13:37:03]AddNpcInfo:npcid = 119name = Кузнец - Башmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 120name = Бакалейщик - Палпинmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 121name = Целитель - Дайшаmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 122name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 123name = Глава Ледыни - Рейноmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 124name = Монарх Ледыни - Масmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 125name = Банкир - Белиндаmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 126name = Официантка - Бабараmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 127name = Портной - Ханнаmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 128name = Трактирщик - Яскиmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 129name = Малыш Моmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 130name = Вынньmapid = 3areaid = 19 
+[06-08 13:37:03]AddNpcInfo:npcid = 131name = Лессиmapid = 3areaid = 19 
+[06-08 13:37:03]AddNpcInfo:npcid = 132name = Додоmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 133name = Лямутmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 134name = Айрисисmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 135name = Елунаmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 136name = Шередаmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 137name = Чаоmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 138name = Клубничкаmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 139name = Еваmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 140name = Сюзаннаmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 141name = Каролинаmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 142name = Джемесонmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 143name = Люсиmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 144name = Юландорmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 145name = Кетанmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 146name = Девушка Еленаmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 147name = Диспетчер порта - Силионmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 148name = Корабел - Джорджmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 149name = Моряк - Аяксmapid = 3areaid = 21 
+[06-08 13:37:03]AddNpcInfo:npcid = 150name = Виллиmapid = 3areaid = 59 
+[06-08 13:37:03]AddNpcInfo:npcid = 151name = Зурбиmapid = 3areaid = 59 
+[06-08 13:37:03]AddNpcInfo:npcid = 152name = Гасардийmapid = 3areaid = 59 
+[06-08 13:37:03]AddNpcInfo:npcid = 153name = Джули Огонекmapid = 3areaid = 59 
+[06-08 13:37:03]AddNpcInfo:npcid = 154name = Алкарmapid = 3areaid = 59 
+[06-08 13:37:03]AddNpcInfo:npcid = 155name = Оракул - Лунный Светmapid = 3areaid = 60 
+[06-08 13:37:03]AddNpcInfo:npcid = 156name = Зевсmapid = 3areaid = 60 
+[06-08 13:37:03]AddNpcInfo:npcid = 157name = Хохоmapid = 3areaid = 60 
+[06-08 13:37:03]AddNpcInfo:npcid = 158name = Неляmapid = 3areaid = 64 
+[06-08 13:37:03]AddNpcInfo:npcid = 159name = Лулуmapid = 3areaid = 64 
+[06-08 13:37:03]AddNpcInfo:npcid = 160name = Миккилонmapid = 3areaid = 64 
+[06-08 13:37:03]AddNpcInfo:npcid = 161name = Фардиmapid = 3areaid = 64 
+[06-08 13:37:03]AddNpcInfo:npcid = 162name = Джернисmapid = 3areaid = 56 
+[06-08 13:37:03]AddNpcInfo:npcid = 163name = Бабушка Донгmapid = 3areaid = 56 
+[06-08 13:37:03]AddNpcInfo:npcid = 164name = Нанаmapid = 3areaid = 56 
+[06-08 13:37:03]AddNpcInfo:npcid = 165name = Старик-предсказательmapid = 3areaid = 56 
+[06-08 13:37:03]AddNpcInfo:npcid = 166name = Грузчик - Хурадарmapid = 1areaid = 55 
+[06-08 13:37:03]AddNpcInfo:npcid = 167name = Грузчик - Мокинmapid = 1areaid = 58 
+[06-08 13:37:03]AddNpcInfo:npcid = 168name = Диспетчер порта - Доморуmapid = 2areaid = 77 
+[06-08 13:37:03]AddNpcInfo:npcid = 169name = Диспетчер порта - Баросmapid = 2areaid = 79 
+[06-08 13:37:03]AddNpcInfo:npcid = 170name = Диспетчер порта - Луиджиmapid = 2areaid = 75 
+[06-08 13:37:03]AddNpcInfo:npcid = 171name = Диспетчер порта - Диданmapid = 2areaid = 80 
+[06-08 13:37:03]AddNpcInfo:npcid = 172name = Диспетчер порта - Даннийmapid = 2areaid = 81 
+[06-08 13:37:03]AddNpcInfo:npcid = 173name = Диспетчер порта - Даругаmapid = 1areaid = 72 
+[06-08 13:37:03]AddNpcInfo:npcid = 174name = Грузчик - Алкинсmapid = 3areaid = 59 
+[06-08 13:37:03]AddNpcInfo:npcid = 175name = Тайmapid = 3areaid = 60 
+[06-08 13:37:03]AddNpcInfo:npcid = 176name = Диспетчер порта - Фарделлmapid = 1areaid = 74 
+[06-08 13:37:03]AddNpcInfo:npcid = 177name = Диспетчер порта - Уайткомбиmapid = 1areaid = 73 
+[06-08 13:37:03]AddNpcInfo:npcid = 178name = Диспетчер порта - Грегориmapid = 3areaid = 83 
+[06-08 13:37:03]AddNpcInfo:npcid = 179name = Диспетчер порта - Уитниmapid = 1areaid = 71 
+[06-08 13:37:03]AddNpcInfo:npcid = 180name = Диспетчер порта - Буниmapid = 2areaid = 76 
+[06-08 13:37:03]AddNpcInfo:npcid = 181name = Диспетчер порта - Рамусmapid = 3areaid = 85 
+[06-08 13:37:03]AddNpcInfo:npcid = 182name = Диспетчер порта - Сокmapid = 2areaid = 82 
+[06-08 13:37:03]AddNpcInfo:npcid = 183name = Диспетчер порта - Тибаmapid = 2areaid = 78 
+[06-08 13:37:03]AddNpcInfo:npcid = 184name = Страж Аргента - Питерmapid = 1areaid = 1 
+[06-08 13:37:03]AddNpcInfo:npcid = 185name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-08 13:37:03]AddNpcInfo:npcid = 186name = Диспетчер порта - Одиmapid = 3areaid = 84 
+[06-08 13:37:03]AddNpcInfo:npcid = 187name = Первосвященник - Гэнонmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 1name = Секретарь Аргента - Сальвьерmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 2name = Кузнец - Голдиmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 3name = Горожанка - Маргаретmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 4name = Бабушка Бельдиmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 5name = Маленький Даниэльmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 6name = Торговец Чироmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 7name = Целитель - Дитоmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 8name = Банкир - Моникаmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 9name = Трактирщица - Мэриамmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 10name = Форбейmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 11name = Моряк - Коддиmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 12name = Генерал Вильямmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 13name = Медсестра Джинаmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 14name = Посол Шайтана - Ксибаmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 15name = Правитель Аргента - Рональдmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 16name = Старик - Пачкуляmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 17name = Бакалейщик - Джимбериmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 18name = Портниха - Бабушка Нилияmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 19name = Помощник - Рориmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 20name = Барменша - Доннаmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 21name = Пьянчуга - Антонийmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 22name = Юноша - Томмиmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 23name = Мануфактурщик - Дезмонmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 24name = Контрабандист Бунниmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 25name = Глава Флота - Дессароmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 26name = Официантка - Монаmapid = 1areaid = 10 
+[06-12 06:42:41]AddNpcInfo:npcid = 27name = Моряк - Диоmapid = 1areaid = 10 
+[06-12 06:42:41]AddNpcInfo:npcid = 28name = Купец - Сэнджейmapid = 1areaid = 10 
+[06-12 06:42:41]AddNpcInfo:npcid = 29name = Доктор - Масаmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 30name = Банкир - Макурдоmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 31name = Кузнец - Фарлингтонmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 32name = Девочка - Синдиmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 33name = Посол Шайтана - Аликсmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 34name = Рабочий - Уэслиmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 35name = Трактирщица - Бабушка Майяmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 36name = Портной - Дитерmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 37name = Посол Аргента - Ятаmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 38name = Капитан стражи - Маллакmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 39name = Бакалейщик - Шинаmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 40name = Девочка - Риолиmapid = 1areaid = 10 
+[06-12 06:42:41]AddNpcInfo:npcid = 41name = Штаб Флота - Генерал Кенmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 42name = Штаб Флота - Полковник Максиmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 43name = Морфейка - Фреяmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 44name = Стражник - Ниссонmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 45name = Стражник - Сонниmapid = 1areaid = 8 
+[06-12 06:42:41]AddNpcInfo:npcid = 46name = Прохожая - Барбиmapid = 1areaid = 12 
+[06-12 06:42:41]AddNpcInfo:npcid = 47name = Патрульный - Маркусаmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 48name = Доктор - Чивоmapid = 1areaid = 54 
+[06-12 06:42:41]AddNpcInfo:npcid = 49name = Доктор - Миносеваmapid = 1areaid = 53 
+[06-12 06:42:41]AddNpcInfo:npcid = 50name = Фуксmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 51name = Кситронmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 52name = Кентароmapid = 1areaid = 55 
+[06-12 06:42:41]AddNpcInfo:npcid = 53name = Бабуmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 54name = Мелиссаmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 55name = Гадорmapid = 1areaid = 58 
+[06-12 06:42:41]AddNpcInfo:npcid = 56name = Малыш Ковенmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 57name = Тетушка Мэриmapid = 1areaid = 3 
+[06-12 06:42:41]AddNpcInfo:npcid = 58name = Ваалаmapid = 1areaid = 61 
+[06-12 06:42:41]AddNpcInfo:npcid = 59name = Александисmapid = 1areaid = 58 
+[06-12 06:42:41]AddNpcInfo:npcid = 60name = Старик Ковенmapid = 1areaid = 63 
+[06-12 06:42:41]AddNpcInfo:npcid = 61name = Морской советник - Аленаmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 62name = Корабел - Синбадmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 63name = Диспетчер порта - Шерлиmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 64name = Дурьянmapid = 1areaid = 58 
+[06-12 06:42:41]AddNpcInfo:npcid = 65name = Лейнаmapid = 1areaid = 58 
+[06-12 06:42:41]AddNpcInfo:npcid = 66name = Дон Питтmapid = 1areaid = 61 
+[06-12 06:42:41]AddNpcInfo:npcid = 67name = Профессор Фейнmapid = 1areaid = 61 
+[06-12 06:42:41]AddNpcInfo:npcid = 68name = Гидерийmapid = 1areaid = 61 
+[06-12 06:42:41]AddNpcInfo:npcid = 69name = Охранник - Кейлmapid = 1areaid = 55 
+[06-12 06:42:41]AddNpcInfo:npcid = 70name = Берриmapid = 1areaid = 55 
+[06-12 06:42:41]AddNpcInfo:npcid = 71name = Геляmapid = 1areaid = 55 
+[06-12 06:42:41]AddNpcInfo:npcid = 72name = Грегmapid = 1areaid = 55 
+[06-12 06:42:41]AddNpcInfo:npcid = 73name = Линдаmapid = 1areaid = 63 
+[06-12 06:42:41]AddNpcInfo:npcid = 74name = Дадаmapid = 1areaid = 63 
+[06-12 06:42:41]AddNpcInfo:npcid = 75name = Грегmapid = 1areaid = 63 
+[06-12 06:42:41]AddNpcInfo:npcid = 76name = Предводитель клана - Альбудаmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 77name = Рабочий-Оейmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 78name = Моряк - Мойаmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 79name = Банкир - Юдисmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 80name = Береговой страж - Франкоmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 81name = Кузнец - Ковальmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 82name = Девочка - Хэленmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 83name = Бакалейщик - Амосmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 84name = Трактирщица - Харкенmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 85name = Сиделка - Лендиmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 86name = Пират Декиmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 87name = Корабел - Франклинmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 88name = Штаб флота - Адмирал Никmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 89name = Глава Шайтана - Плутоmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 90name = Прохожий - Вовоmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 91name = Помощник - Тинтикmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 92name = Песчаный бандит - Супермуньmapid = 2areaid = 15 
+[06-12 06:42:41]AddNpcInfo:npcid = 93name = Принц-тритон - Хассанmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 94name = Музыкант - Шармельmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 95name = Благочестивая жрица - Адаmapid = 2areaid = 14 
+[06-12 06:42:41]AddNpcInfo:npcid = 96name = Прохожий - Фейруmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 97name = Глава гильдии - Форланmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 98name = Страж - Майклmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 99name = Целительница Шайлаmapid = 2areaid = 13 
+[06-12 06:42:41]AddNpcInfo:npcid = 100name = Минеллиmapid = 2areaid = 62 
+[06-12 06:42:41]AddNpcInfo:npcid = 101name = Августианmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 102name = Джейнааmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 103name = Дитароmapid = 2areaid = 57 
+[06-12 06:42:41]AddNpcInfo:npcid = 104name = Рубен Актийmapid = 2areaid = 15 
+[06-12 06:42:41]AddNpcInfo:npcid = 105name = Мерриксmapid = 2areaid = 15 
+[06-12 06:42:41]AddNpcInfo:npcid = 106name = Гадасmapid = 2areaid = 15 
+[06-12 06:42:41]AddNpcInfo:npcid = 107name = Кавойскиmapid = 2areaid = 57 
+[06-12 06:42:41]AddNpcInfo:npcid = 108name = Бекmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 109name = Хэмmapid = 2areaid = 14 
+[06-12 06:42:41]AddNpcInfo:npcid = 110name = Лавьюриmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 111name = Робинmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 112name = Диспетчер порта - Маркmapid = 2areaid = 16 
+[06-12 06:42:41]AddNpcInfo:npcid = 113name = Солнmapid = 2areaid = 62 
+[06-12 06:42:41]AddNpcInfo:npcid = 114name = Одессийmapid = 2areaid = 62 
+[06-12 06:42:41]AddNpcInfo:npcid = 115name = Момоmapid = 2areaid = 62 
+[06-12 06:42:41]AddNpcInfo:npcid = 116name = Венонаmapid = 2areaid = 57 
+[06-12 06:42:41]AddNpcInfo:npcid = 117name = Фей Фейmapid = 2areaid = 57 
+[06-12 06:42:41]AddNpcInfo:npcid = 118name = Маркусmapid = 2areaid = 57 
+[06-12 06:42:41]AddNpcInfo:npcid = 119name = Кузнец - Башmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 120name = Бакалейщик - Палпинmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 121name = Целитель - Дайшаmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 122name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 123name = Глава Ледыни - Рейноmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 124name = Монарх Ледыни - Масmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 125name = Банкир - Белиндаmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 126name = Официантка - Бабараmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 127name = Портной - Ханнаmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 128name = Трактирщик - Яскиmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 129name = Малыш Моmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 130name = Вынньmapid = 3areaid = 19 
+[06-12 06:42:41]AddNpcInfo:npcid = 131name = Лессиmapid = 3areaid = 19 
+[06-12 06:42:41]AddNpcInfo:npcid = 132name = Додоmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 133name = Лямутmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 134name = Айрисисmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 135name = Елунаmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 136name = Шередаmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 137name = Чаоmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 138name = Клубничкаmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 139name = Еваmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 140name = Сюзаннаmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 141name = Каролинаmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 142name = Джемесонmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 143name = Люсиmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 144name = Юландорmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 145name = Кетанmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 146name = Девушка Еленаmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 147name = Диспетчер порта - Силионmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 148name = Корабел - Джорджmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 149name = Моряк - Аяксmapid = 3areaid = 21 
+[06-12 06:42:41]AddNpcInfo:npcid = 150name = Виллиmapid = 3areaid = 59 
+[06-12 06:42:41]AddNpcInfo:npcid = 151name = Зурбиmapid = 3areaid = 59 
+[06-12 06:42:41]AddNpcInfo:npcid = 152name = Гасардийmapid = 3areaid = 59 
+[06-12 06:42:41]AddNpcInfo:npcid = 153name = Джули Огонекmapid = 3areaid = 59 
+[06-12 06:42:41]AddNpcInfo:npcid = 154name = Алкарmapid = 3areaid = 59 
+[06-12 06:42:41]AddNpcInfo:npcid = 155name = Оракул - Лунный Светmapid = 3areaid = 60 
+[06-12 06:42:41]AddNpcInfo:npcid = 156name = Зевсmapid = 3areaid = 60 
+[06-12 06:42:41]AddNpcInfo:npcid = 157name = Хохоmapid = 3areaid = 60 
+[06-12 06:42:41]AddNpcInfo:npcid = 158name = Неляmapid = 3areaid = 64 
+[06-12 06:42:41]AddNpcInfo:npcid = 159name = Лулуmapid = 3areaid = 64 
+[06-12 06:42:41]AddNpcInfo:npcid = 160name = Миккилонmapid = 3areaid = 64 
+[06-12 06:42:41]AddNpcInfo:npcid = 161name = Фардиmapid = 3areaid = 64 
+[06-12 06:42:41]AddNpcInfo:npcid = 162name = Джернисmapid = 3areaid = 56 
+[06-12 06:42:41]AddNpcInfo:npcid = 163name = Бабушка Донгmapid = 3areaid = 56 
+[06-12 06:42:41]AddNpcInfo:npcid = 164name = Нанаmapid = 3areaid = 56 
+[06-12 06:42:41]AddNpcInfo:npcid = 165name = Старик-предсказательmapid = 3areaid = 56 
+[06-12 06:42:41]AddNpcInfo:npcid = 166name = Грузчик - Хурадарmapid = 1areaid = 55 
+[06-12 06:42:41]AddNpcInfo:npcid = 167name = Грузчик - Мокинmapid = 1areaid = 58 
+[06-12 06:42:41]AddNpcInfo:npcid = 168name = Диспетчер порта - Доморуmapid = 2areaid = 77 
+[06-12 06:42:41]AddNpcInfo:npcid = 169name = Диспетчер порта - Баросmapid = 2areaid = 79 
+[06-12 06:42:41]AddNpcInfo:npcid = 170name = Диспетчер порта - Луиджиmapid = 2areaid = 75 
+[06-12 06:42:41]AddNpcInfo:npcid = 171name = Диспетчер порта - Диданmapid = 2areaid = 80 
+[06-12 06:42:41]AddNpcInfo:npcid = 172name = Диспетчер порта - Даннийmapid = 2areaid = 81 
+[06-12 06:42:41]AddNpcInfo:npcid = 173name = Диспетчер порта - Даругаmapid = 1areaid = 72 
+[06-12 06:42:41]AddNpcInfo:npcid = 174name = Грузчик - Алкинсmapid = 3areaid = 59 
+[06-12 06:42:41]AddNpcInfo:npcid = 175name = Тайmapid = 3areaid = 60 
+[06-12 06:42:41]AddNpcInfo:npcid = 176name = Диспетчер порта - Фарделлmapid = 1areaid = 74 
+[06-12 06:42:41]AddNpcInfo:npcid = 177name = Диспетчер порта - Уайткомбиmapid = 1areaid = 73 
+[06-12 06:42:41]AddNpcInfo:npcid = 178name = Диспетчер порта - Грегориmapid = 3areaid = 83 
+[06-12 06:42:41]AddNpcInfo:npcid = 179name = Диспетчер порта - Уитниmapid = 1areaid = 71 
+[06-12 06:42:41]AddNpcInfo:npcid = 180name = Диспетчер порта - Буниmapid = 2areaid = 76 
+[06-12 06:42:41]AddNpcInfo:npcid = 181name = Диспетчер порта - Рамусmapid = 3areaid = 85 
+[06-12 06:42:41]AddNpcInfo:npcid = 182name = Диспетчер порта - Сокmapid = 2areaid = 82 
+[06-12 06:42:41]AddNpcInfo:npcid = 183name = Диспетчер порта - Тибаmapid = 2areaid = 78 
+[06-12 06:42:41]AddNpcInfo:npcid = 184name = Страж Аргента - Питерmapid = 1areaid = 1 
+[06-12 06:42:41]AddNpcInfo:npcid = 185name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-12 06:42:41]AddNpcInfo:npcid = 186name = Диспетчер порта - Одиmapid = 3areaid = 84 
+[06-12 06:42:41]AddNpcInfo:npcid = 187name = Первосвященник - Гэнонmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 1name = Секретарь Аргента - Сальвьерmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 2name = Кузнец - Голдиmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 3name = Горожанка - Маргаретmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 4name = Бабушка Бельдиmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 5name = Маленький Даниэльmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 6name = Торговец Чироmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 7name = Целитель - Дитоmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 8name = Банкир - Моникаmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 9name = Трактирщица - Мэриамmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 10name = Форбейmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 11name = Моряк - Коддиmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 12name = Генерал Вильямmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 13name = Медсестра Джинаmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 14name = Посол Шайтана - Ксибаmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 15name = Правитель Аргента - Рональдmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 16name = Старик - Пачкуляmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 17name = Бакалейщик - Джимбериmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 18name = Портниха - Бабушка Нилияmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 19name = Помощник - Рориmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 20name = Барменша - Доннаmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 21name = Пьянчуга - Антонийmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 22name = Юноша - Томмиmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 23name = Мануфактурщик - Дезмонmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 24name = Контрабандист Бунниmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 25name = Глава Флота - Дессароmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 26name = Официантка - Монаmapid = 1areaid = 10 
+[06-12 07:08:40]AddNpcInfo:npcid = 27name = Моряк - Диоmapid = 1areaid = 10 
+[06-12 07:08:40]AddNpcInfo:npcid = 28name = Купец - Сэнджейmapid = 1areaid = 10 
+[06-12 07:08:40]AddNpcInfo:npcid = 29name = Доктор - Масаmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 30name = Банкир - Макурдоmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 31name = Кузнец - Фарлингтонmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 32name = Девочка - Синдиmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 33name = Посол Шайтана - Аликсmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 34name = Рабочий - Уэслиmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 35name = Трактирщица - Бабушка Майяmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 36name = Портной - Дитерmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 37name = Посол Аргента - Ятаmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 38name = Капитан стражи - Маллакmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 39name = Бакалейщик - Шинаmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 40name = Девочка - Риолиmapid = 1areaid = 10 
+[06-12 07:08:40]AddNpcInfo:npcid = 41name = Штаб Флота - Генерал Кенmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 42name = Штаб Флота - Полковник Максиmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 43name = Морфейка - Фреяmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 44name = Стражник - Ниссонmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 45name = Стражник - Сонниmapid = 1areaid = 8 
+[06-12 07:08:40]AddNpcInfo:npcid = 46name = Прохожая - Барбиmapid = 1areaid = 12 
+[06-12 07:08:40]AddNpcInfo:npcid = 47name = Патрульный - Маркусаmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 48name = Доктор - Чивоmapid = 1areaid = 54 
+[06-12 07:08:40]AddNpcInfo:npcid = 49name = Доктор - Миносеваmapid = 1areaid = 53 
+[06-12 07:08:40]AddNpcInfo:npcid = 50name = Фуксmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 51name = Кситронmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 52name = Кентароmapid = 1areaid = 55 
+[06-12 07:08:40]AddNpcInfo:npcid = 53name = Бабуmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 54name = Мелиссаmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 55name = Гадорmapid = 1areaid = 58 
+[06-12 07:08:40]AddNpcInfo:npcid = 56name = Малыш Ковенmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 57name = Тетушка Мэриmapid = 1areaid = 3 
+[06-12 07:08:40]AddNpcInfo:npcid = 58name = Ваалаmapid = 1areaid = 61 
+[06-12 07:08:40]AddNpcInfo:npcid = 59name = Александисmapid = 1areaid = 58 
+[06-12 07:08:40]AddNpcInfo:npcid = 60name = Старик Ковенmapid = 1areaid = 63 
+[06-12 07:08:40]AddNpcInfo:npcid = 61name = Морской советник - Аленаmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 62name = Корабел - Синбадmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 63name = Диспетчер порта - Шерлиmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 64name = Дурьянmapid = 1areaid = 58 
+[06-12 07:08:40]AddNpcInfo:npcid = 65name = Лейнаmapid = 1areaid = 58 
+[06-12 07:08:40]AddNpcInfo:npcid = 66name = Дон Питтmapid = 1areaid = 61 
+[06-12 07:08:40]AddNpcInfo:npcid = 67name = Профессор Фейнmapid = 1areaid = 61 
+[06-12 07:08:40]AddNpcInfo:npcid = 68name = Гидерийmapid = 1areaid = 61 
+[06-12 07:08:40]AddNpcInfo:npcid = 69name = Охранник - Кейлmapid = 1areaid = 55 
+[06-12 07:08:40]AddNpcInfo:npcid = 70name = Берриmapid = 1areaid = 55 
+[06-12 07:08:40]AddNpcInfo:npcid = 71name = Геляmapid = 1areaid = 55 
+[06-12 07:08:40]AddNpcInfo:npcid = 72name = Грегmapid = 1areaid = 55 
+[06-12 07:08:40]AddNpcInfo:npcid = 73name = Линдаmapid = 1areaid = 63 
+[06-12 07:08:40]AddNpcInfo:npcid = 74name = Дадаmapid = 1areaid = 63 
+[06-12 07:08:40]AddNpcInfo:npcid = 75name = Грегmapid = 1areaid = 63 
+[06-12 07:08:40]AddNpcInfo:npcid = 76name = Предводитель клана - Альбудаmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 77name = Рабочий-Оейmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 78name = Моряк - Мойаmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 79name = Банкир - Юдисmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 80name = Береговой страж - Франкоmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 81name = Кузнец - Ковальmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 82name = Девочка - Хэленmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 83name = Бакалейщик - Амосmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 84name = Трактирщица - Харкенmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 85name = Сиделка - Лендиmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 86name = Пират Декиmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 87name = Корабел - Франклинmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 88name = Штаб флота - Адмирал Никmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 89name = Глава Шайтана - Плутоmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 90name = Прохожий - Вовоmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 91name = Помощник - Тинтикmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 92name = Песчаный бандит - Супермуньmapid = 2areaid = 15 
+[06-12 07:08:40]AddNpcInfo:npcid = 93name = Принц-тритон - Хассанmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 94name = Музыкант - Шармельmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 95name = Благочестивая жрица - Адаmapid = 2areaid = 14 
+[06-12 07:08:40]AddNpcInfo:npcid = 96name = Прохожий - Фейруmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 97name = Глава гильдии - Форланmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 98name = Страж - Майклmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 99name = Целительница Шайлаmapid = 2areaid = 13 
+[06-12 07:08:40]AddNpcInfo:npcid = 100name = Минеллиmapid = 2areaid = 62 
+[06-12 07:08:40]AddNpcInfo:npcid = 101name = Августианmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 102name = Джейнааmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 103name = Дитароmapid = 2areaid = 57 
+[06-12 07:08:40]AddNpcInfo:npcid = 104name = Рубен Актийmapid = 2areaid = 15 
+[06-12 07:08:40]AddNpcInfo:npcid = 105name = Мерриксmapid = 2areaid = 15 
+[06-12 07:08:40]AddNpcInfo:npcid = 106name = Гадасmapid = 2areaid = 15 
+[06-12 07:08:40]AddNpcInfo:npcid = 107name = Кавойскиmapid = 2areaid = 57 
+[06-12 07:08:40]AddNpcInfo:npcid = 108name = Бекmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 109name = Хэмmapid = 2areaid = 14 
+[06-12 07:08:40]AddNpcInfo:npcid = 110name = Лавьюриmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 111name = Робинmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 112name = Диспетчер порта - Маркmapid = 2areaid = 16 
+[06-12 07:08:40]AddNpcInfo:npcid = 113name = Солнmapid = 2areaid = 62 
+[06-12 07:08:40]AddNpcInfo:npcid = 114name = Одессийmapid = 2areaid = 62 
+[06-12 07:08:40]AddNpcInfo:npcid = 115name = Момоmapid = 2areaid = 62 
+[06-12 07:08:40]AddNpcInfo:npcid = 116name = Венонаmapid = 2areaid = 57 
+[06-12 07:08:40]AddNpcInfo:npcid = 117name = Фей Фейmapid = 2areaid = 57 
+[06-12 07:08:40]AddNpcInfo:npcid = 118name = Маркусmapid = 2areaid = 57 
+[06-12 07:08:40]AddNpcInfo:npcid = 119name = Кузнец - Башmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 120name = Бакалейщик - Палпинmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 121name = Целитель - Дайшаmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 122name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 123name = Глава Ледыни - Рейноmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 124name = Монарх Ледыни - Масmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 125name = Банкир - Белиндаmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 126name = Официантка - Бабараmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 127name = Портной - Ханнаmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 128name = Трактирщик - Яскиmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 129name = Малыш Моmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 130name = Вынньmapid = 3areaid = 19 
+[06-12 07:08:40]AddNpcInfo:npcid = 131name = Лессиmapid = 3areaid = 19 
+[06-12 07:08:40]AddNpcInfo:npcid = 132name = Додоmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 133name = Лямутmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 134name = Айрисисmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 135name = Елунаmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 136name = Шередаmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 137name = Чаоmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 138name = Клубничкаmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 139name = Еваmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 140name = Сюзаннаmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 141name = Каролинаmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 142name = Джемесонmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 143name = Люсиmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 144name = Юландорmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 145name = Кетанmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 146name = Девушка Еленаmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 147name = Диспетчер порта - Силионmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 148name = Корабел - Джорджmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 149name = Моряк - Аяксmapid = 3areaid = 21 
+[06-12 07:08:40]AddNpcInfo:npcid = 150name = Виллиmapid = 3areaid = 59 
+[06-12 07:08:40]AddNpcInfo:npcid = 151name = Зурбиmapid = 3areaid = 59 
+[06-12 07:08:40]AddNpcInfo:npcid = 152name = Гасардийmapid = 3areaid = 59 
+[06-12 07:08:40]AddNpcInfo:npcid = 153name = Джули Огонекmapid = 3areaid = 59 
+[06-12 07:08:40]AddNpcInfo:npcid = 154name = Алкарmapid = 3areaid = 59 
+[06-12 07:08:40]AddNpcInfo:npcid = 155name = Оракул - Лунный Светmapid = 3areaid = 60 
+[06-12 07:08:40]AddNpcInfo:npcid = 156name = Зевсmapid = 3areaid = 60 
+[06-12 07:08:40]AddNpcInfo:npcid = 157name = Хохоmapid = 3areaid = 60 
+[06-12 07:08:40]AddNpcInfo:npcid = 158name = Неляmapid = 3areaid = 64 
+[06-12 07:08:40]AddNpcInfo:npcid = 159name = Лулуmapid = 3areaid = 64 
+[06-12 07:08:40]AddNpcInfo:npcid = 160name = Миккилонmapid = 3areaid = 64 
+[06-12 07:08:40]AddNpcInfo:npcid = 161name = Фардиmapid = 3areaid = 64 
+[06-12 07:08:40]AddNpcInfo:npcid = 162name = Джернисmapid = 3areaid = 56 
+[06-12 07:08:40]AddNpcInfo:npcid = 163name = Бабушка Донгmapid = 3areaid = 56 
+[06-12 07:08:40]AddNpcInfo:npcid = 164name = Нанаmapid = 3areaid = 56 
+[06-12 07:08:40]AddNpcInfo:npcid = 165name = Старик-предсказательmapid = 3areaid = 56 
+[06-12 07:08:40]AddNpcInfo:npcid = 166name = Грузчик - Хурадарmapid = 1areaid = 55 
+[06-12 07:08:40]AddNpcInfo:npcid = 167name = Грузчик - Мокинmapid = 1areaid = 58 
+[06-12 07:08:40]AddNpcInfo:npcid = 168name = Диспетчер порта - Доморуmapid = 2areaid = 77 
+[06-12 07:08:40]AddNpcInfo:npcid = 169name = Диспетчер порта - Баросmapid = 2areaid = 79 
+[06-12 07:08:40]AddNpcInfo:npcid = 170name = Диспетчер порта - Луиджиmapid = 2areaid = 75 
+[06-12 07:08:40]AddNpcInfo:npcid = 171name = Диспетчер порта - Диданmapid = 2areaid = 80 
+[06-12 07:08:40]AddNpcInfo:npcid = 172name = Диспетчер порта - Даннийmapid = 2areaid = 81 
+[06-12 07:08:40]AddNpcInfo:npcid = 173name = Диспетчер порта - Даругаmapid = 1areaid = 72 
+[06-12 07:08:40]AddNpcInfo:npcid = 174name = Грузчик - Алкинсmapid = 3areaid = 59 
+[06-12 07:08:40]AddNpcInfo:npcid = 175name = Тайmapid = 3areaid = 60 
+[06-12 07:08:40]AddNpcInfo:npcid = 176name = Диспетчер порта - Фарделлmapid = 1areaid = 74 
+[06-12 07:08:40]AddNpcInfo:npcid = 177name = Диспетчер порта - Уайткомбиmapid = 1areaid = 73 
+[06-12 07:08:40]AddNpcInfo:npcid = 178name = Диспетчер порта - Грегориmapid = 3areaid = 83 
+[06-12 07:08:40]AddNpcInfo:npcid = 179name = Диспетчер порта - Уитниmapid = 1areaid = 71 
+[06-12 07:08:40]AddNpcInfo:npcid = 180name = Диспетчер порта - Буниmapid = 2areaid = 76 
+[06-12 07:08:40]AddNpcInfo:npcid = 181name = Диспетчер порта - Рамусmapid = 3areaid = 85 
+[06-12 07:08:40]AddNpcInfo:npcid = 182name = Диспетчер порта - Сокmapid = 2areaid = 82 
+[06-12 07:08:40]AddNpcInfo:npcid = 183name = Диспетчер порта - Тибаmapid = 2areaid = 78 
+[06-12 07:08:40]AddNpcInfo:npcid = 184name = Страж Аргента - Питерmapid = 1areaid = 1 
+[06-12 07:08:40]AddNpcInfo:npcid = 185name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-12 07:08:40]AddNpcInfo:npcid = 186name = Диспетчер порта - Одиmapid = 3areaid = 84 
+[06-12 07:08:40]AddNpcInfo:npcid = 187name = Первосвященник - Гэнонmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 1name = Секретарь Аргента - Сальвьерmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 2name = Кузнец - Голдиmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 3name = Горожанка - Маргаретmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 4name = Бабушка Бельдиmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 5name = Маленький Даниэльmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 6name = Торговец Чироmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 7name = Целитель - Дитоmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 8name = Банкир - Моникаmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 9name = Трактирщица - Мэриамmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 10name = Форбейmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 11name = Моряк - Коддиmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 12name = Генерал Вильямmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 13name = Медсестра Джинаmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 14name = Посол Шайтана - Ксибаmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 15name = Правитель Аргента - Рональдmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 16name = Старик - Пачкуляmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 17name = Бакалейщик - Джимбериmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 18name = Портниха - Бабушка Нилияmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 19name = Помощник - Рориmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 20name = Барменша - Доннаmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 21name = Пьянчуга - Антонийmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 22name = Юноша - Томмиmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 23name = Мануфактурщик - Дезмонmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 24name = Контрабандист Бунниmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 25name = Глава Флота - Дессароmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 26name = Официантка - Монаmapid = 1areaid = 10 
+[06-12 07:11:29]AddNpcInfo:npcid = 27name = Моряк - Диоmapid = 1areaid = 10 
+[06-12 07:11:29]AddNpcInfo:npcid = 28name = Купец - Сэнджейmapid = 1areaid = 10 
+[06-12 07:11:29]AddNpcInfo:npcid = 29name = Доктор - Масаmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 30name = Банкир - Макурдоmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 31name = Кузнец - Фарлингтонmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 32name = Девочка - Синдиmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 33name = Посол Шайтана - Аликсmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 34name = Рабочий - Уэслиmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 35name = Трактирщица - Бабушка Майяmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 36name = Портной - Дитерmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 37name = Посол Аргента - Ятаmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 38name = Капитан стражи - Маллакmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 39name = Бакалейщик - Шинаmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 40name = Девочка - Риолиmapid = 1areaid = 10 
+[06-12 07:11:29]AddNpcInfo:npcid = 41name = Штаб Флота - Генерал Кенmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 42name = Штаб Флота - Полковник Максиmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 43name = Морфейка - Фреяmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 44name = Стражник - Ниссонmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 45name = Стражник - Сонниmapid = 1areaid = 8 
+[06-12 07:11:29]AddNpcInfo:npcid = 46name = Прохожая - Барбиmapid = 1areaid = 12 
+[06-12 07:11:29]AddNpcInfo:npcid = 47name = Патрульный - Маркусаmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 48name = Доктор - Чивоmapid = 1areaid = 54 
+[06-12 07:11:29]AddNpcInfo:npcid = 49name = Доктор - Миносеваmapid = 1areaid = 53 
+[06-12 07:11:29]AddNpcInfo:npcid = 50name = Фуксmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 51name = Кситронmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 52name = Кентароmapid = 1areaid = 55 
+[06-12 07:11:29]AddNpcInfo:npcid = 53name = Бабуmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 54name = Мелиссаmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 55name = Гадорmapid = 1areaid = 58 
+[06-12 07:11:29]AddNpcInfo:npcid = 56name = Малыш Ковенmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 57name = Тетушка Мэриmapid = 1areaid = 3 
+[06-12 07:11:29]AddNpcInfo:npcid = 58name = Ваалаmapid = 1areaid = 61 
+[06-12 07:11:29]AddNpcInfo:npcid = 59name = Александисmapid = 1areaid = 58 
+[06-12 07:11:29]AddNpcInfo:npcid = 60name = Старик Ковенmapid = 1areaid = 63 
+[06-12 07:11:29]AddNpcInfo:npcid = 61name = Морской советник - Аленаmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 62name = Корабел - Синбадmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 63name = Диспетчер порта - Шерлиmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 64name = Дурьянmapid = 1areaid = 58 
+[06-12 07:11:29]AddNpcInfo:npcid = 65name = Лейнаmapid = 1areaid = 58 
+[06-12 07:11:29]AddNpcInfo:npcid = 66name = Дон Питтmapid = 1areaid = 61 
+[06-12 07:11:29]AddNpcInfo:npcid = 67name = Профессор Фейнmapid = 1areaid = 61 
+[06-12 07:11:29]AddNpcInfo:npcid = 68name = Гидерийmapid = 1areaid = 61 
+[06-12 07:11:29]AddNpcInfo:npcid = 69name = Охранник - Кейлmapid = 1areaid = 55 
+[06-12 07:11:29]AddNpcInfo:npcid = 70name = Берриmapid = 1areaid = 55 
+[06-12 07:11:29]AddNpcInfo:npcid = 71name = Геляmapid = 1areaid = 55 
+[06-12 07:11:29]AddNpcInfo:npcid = 72name = Грегmapid = 1areaid = 55 
+[06-12 07:11:29]AddNpcInfo:npcid = 73name = Линдаmapid = 1areaid = 63 
+[06-12 07:11:29]AddNpcInfo:npcid = 74name = Дадаmapid = 1areaid = 63 
+[06-12 07:11:29]AddNpcInfo:npcid = 75name = Грегmapid = 1areaid = 63 
+[06-12 07:11:29]AddNpcInfo:npcid = 76name = Предводитель клана - Альбудаmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 77name = Рабочий-Оейmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 78name = Моряк - Мойаmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 79name = Банкир - Юдисmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 80name = Береговой страж - Франкоmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 81name = Кузнец - Ковальmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 82name = Девочка - Хэленmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 83name = Бакалейщик - Амосmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 84name = Трактирщица - Харкенmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 85name = Сиделка - Лендиmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 86name = Пират Декиmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 87name = Корабел - Франклинmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 88name = Штаб флота - Адмирал Никmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 89name = Глава Шайтана - Плутоmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 90name = Прохожий - Вовоmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 91name = Помощник - Тинтикmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 92name = Песчаный бандит - Супермуньmapid = 2areaid = 15 
+[06-12 07:11:29]AddNpcInfo:npcid = 93name = Принц-тритон - Хассанmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 94name = Музыкант - Шармельmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 95name = Благочестивая жрица - Адаmapid = 2areaid = 14 
+[06-12 07:11:29]AddNpcInfo:npcid = 96name = Прохожий - Фейруmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 97name = Глава гильдии - Форланmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 98name = Страж - Майклmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 99name = Целительница Шайлаmapid = 2areaid = 13 
+[06-12 07:11:29]AddNpcInfo:npcid = 100name = Минеллиmapid = 2areaid = 62 
+[06-12 07:11:29]AddNpcInfo:npcid = 101name = Августианmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 102name = Джейнааmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 103name = Дитароmapid = 2areaid = 57 
+[06-12 07:11:29]AddNpcInfo:npcid = 104name = Рубен Актийmapid = 2areaid = 15 
+[06-12 07:11:29]AddNpcInfo:npcid = 105name = Мерриксmapid = 2areaid = 15 
+[06-12 07:11:29]AddNpcInfo:npcid = 106name = Гадасmapid = 2areaid = 15 
+[06-12 07:11:29]AddNpcInfo:npcid = 107name = Кавойскиmapid = 2areaid = 57 
+[06-12 07:11:29]AddNpcInfo:npcid = 108name = Бекmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 109name = Хэмmapid = 2areaid = 14 
+[06-12 07:11:29]AddNpcInfo:npcid = 110name = Лавьюриmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 111name = Робинmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 112name = Диспетчер порта - Маркmapid = 2areaid = 16 
+[06-12 07:11:29]AddNpcInfo:npcid = 113name = Солнmapid = 2areaid = 62 
+[06-12 07:11:29]AddNpcInfo:npcid = 114name = Одессийmapid = 2areaid = 62 
+[06-12 07:11:29]AddNpcInfo:npcid = 115name = Момоmapid = 2areaid = 62 
+[06-12 07:11:29]AddNpcInfo:npcid = 116name = Венонаmapid = 2areaid = 57 
+[06-12 07:11:29]AddNpcInfo:npcid = 117name = Фей Фейmapid = 2areaid = 57 
+[06-12 07:11:29]AddNpcInfo:npcid = 118name = Маркусmapid = 2areaid = 57 
+[06-12 07:11:29]AddNpcInfo:npcid = 119name = Кузнец - Башmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 120name = Бакалейщик - Палпинmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 121name = Целитель - Дайшаmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 122name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 123name = Глава Ледыни - Рейноmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 124name = Монарх Ледыни - Масmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 125name = Банкир - Белиндаmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 126name = Официантка - Бабараmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 127name = Портной - Ханнаmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 128name = Трактирщик - Яскиmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 129name = Малыш Моmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 130name = Вынньmapid = 3areaid = 19 
+[06-12 07:11:29]AddNpcInfo:npcid = 131name = Лессиmapid = 3areaid = 19 
+[06-12 07:11:29]AddNpcInfo:npcid = 132name = Додоmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 133name = Лямутmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 134name = Айрисисmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 135name = Елунаmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 136name = Шередаmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 137name = Чаоmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 138name = Клубничкаmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 139name = Еваmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 140name = Сюзаннаmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 141name = Каролинаmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 142name = Джемесонmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 143name = Люсиmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 144name = Юландорmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 145name = Кетанmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 146name = Девушка Еленаmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 147name = Диспетчер порта - Силионmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 148name = Корабел - Джорджmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 149name = Моряк - Аяксmapid = 3areaid = 21 
+[06-12 07:11:29]AddNpcInfo:npcid = 150name = Виллиmapid = 3areaid = 59 
+[06-12 07:11:29]AddNpcInfo:npcid = 151name = Зурбиmapid = 3areaid = 59 
+[06-12 07:11:29]AddNpcInfo:npcid = 152name = Гасардийmapid = 3areaid = 59 
+[06-12 07:11:29]AddNpcInfo:npcid = 153name = Джули Огонекmapid = 3areaid = 59 
+[06-12 07:11:29]AddNpcInfo:npcid = 154name = Алкарmapid = 3areaid = 59 
+[06-12 07:11:29]AddNpcInfo:npcid = 155name = Оракул - Лунный Светmapid = 3areaid = 60 
+[06-12 07:11:29]AddNpcInfo:npcid = 156name = Зевсmapid = 3areaid = 60 
+[06-12 07:11:29]AddNpcInfo:npcid = 157name = Хохоmapid = 3areaid = 60 
+[06-12 07:11:29]AddNpcInfo:npcid = 158name = Неляmapid = 3areaid = 64 
+[06-12 07:11:29]AddNpcInfo:npcid = 159name = Лулуmapid = 3areaid = 64 
+[06-12 07:11:29]AddNpcInfo:npcid = 160name = Миккилонmapid = 3areaid = 64 
+[06-12 07:11:29]AddNpcInfo:npcid = 161name = Фардиmapid = 3areaid = 64 
+[06-12 07:11:29]AddNpcInfo:npcid = 162name = Джернисmapid = 3areaid = 56 
+[06-12 07:11:29]AddNpcInfo:npcid = 163name = Бабушка Донгmapid = 3areaid = 56 
+[06-12 07:11:29]AddNpcInfo:npcid = 164name = Нанаmapid = 3areaid = 56 
+[06-12 07:11:29]AddNpcInfo:npcid = 165name = Старик-предсказательmapid = 3areaid = 56 
+[06-12 07:11:29]AddNpcInfo:npcid = 166name = Грузчик - Хурадарmapid = 1areaid = 55 
+[06-12 07:11:29]AddNpcInfo:npcid = 167name = Грузчик - Мокинmapid = 1areaid = 58 
+[06-12 07:11:29]AddNpcInfo:npcid = 168name = Диспетчер порта - Доморуmapid = 2areaid = 77 
+[06-12 07:11:29]AddNpcInfo:npcid = 169name = Диспетчер порта - Баросmapid = 2areaid = 79 
+[06-12 07:11:29]AddNpcInfo:npcid = 170name = Диспетчер порта - Луиджиmapid = 2areaid = 75 
+[06-12 07:11:29]AddNpcInfo:npcid = 171name = Диспетчер порта - Диданmapid = 2areaid = 80 
+[06-12 07:11:29]AddNpcInfo:npcid = 172name = Диспетчер порта - Даннийmapid = 2areaid = 81 
+[06-12 07:11:29]AddNpcInfo:npcid = 173name = Диспетчер порта - Даругаmapid = 1areaid = 72 
+[06-12 07:11:29]AddNpcInfo:npcid = 174name = Грузчик - Алкинсmapid = 3areaid = 59 
+[06-12 07:11:29]AddNpcInfo:npcid = 175name = Тайmapid = 3areaid = 60 
+[06-12 07:11:29]AddNpcInfo:npcid = 176name = Диспетчер порта - Фарделлmapid = 1areaid = 74 
+[06-12 07:11:29]AddNpcInfo:npcid = 177name = Диспетчер порта - Уайткомбиmapid = 1areaid = 73 
+[06-12 07:11:29]AddNpcInfo:npcid = 178name = Диспетчер порта - Грегориmapid = 3areaid = 83 
+[06-12 07:11:29]AddNpcInfo:npcid = 179name = Диспетчер порта - Уитниmapid = 1areaid = 71 
+[06-12 07:11:29]AddNpcInfo:npcid = 180name = Диспетчер порта - Буниmapid = 2areaid = 76 
+[06-12 07:11:29]AddNpcInfo:npcid = 181name = Диспетчер порта - Рамусmapid = 3areaid = 85 
+[06-12 07:11:29]AddNpcInfo:npcid = 182name = Диспетчер порта - Сокmapid = 2areaid = 82 
+[06-12 07:11:29]AddNpcInfo:npcid = 183name = Диспетчер порта - Тибаmapid = 2areaid = 78 
+[06-12 07:11:29]AddNpcInfo:npcid = 184name = Страж Аргента - Питерmapid = 1areaid = 1 
+[06-12 07:11:29]AddNpcInfo:npcid = 185name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-12 07:11:29]AddNpcInfo:npcid = 186name = Диспетчер порта - Одиmapid = 3areaid = 84 
+[06-12 07:11:29]AddNpcInfo:npcid = 187name = Первосвященник - Гэнонmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 1name = Секретарь Аргента - Сальвьерmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 2name = Кузнец - Голдиmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 3name = Горожанка - Маргаретmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 4name = Бабушка Бельдиmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 5name = Маленький Даниэльmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 6name = Торговец Чироmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 7name = Целитель - Дитоmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 8name = Банкир - Моникаmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 9name = Трактирщица - Мэриамmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 10name = Форбейmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 11name = Моряк - Коддиmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 12name = Генерал Вильямmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 13name = Медсестра Джинаmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 14name = Посол Шайтана - Ксибаmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 15name = Правитель Аргента - Рональдmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 16name = Старик - Пачкуляmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 17name = Бакалейщик - Джимбериmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 18name = Портниха - Бабушка Нилияmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 19name = Помощник - Рориmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 20name = Барменша - Доннаmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 21name = Пьянчуга - Антонийmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 22name = Юноша - Томмиmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 23name = Мануфактурщик - Дезмонmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 24name = Контрабандист Бунниmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 25name = Глава Флота - Дессароmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 26name = Официантка - Монаmapid = 1areaid = 10 
+[06-12 07:11:56]AddNpcInfo:npcid = 27name = Моряк - Диоmapid = 1areaid = 10 
+[06-12 07:11:56]AddNpcInfo:npcid = 28name = Купец - Сэнджейmapid = 1areaid = 10 
+[06-12 07:11:56]AddNpcInfo:npcid = 29name = Доктор - Масаmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 30name = Банкир - Макурдоmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 31name = Кузнец - Фарлингтонmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 32name = Девочка - Синдиmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 33name = Посол Шайтана - Аликсmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 34name = Рабочий - Уэслиmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 35name = Трактирщица - Бабушка Майяmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 36name = Портной - Дитерmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 37name = Посол Аргента - Ятаmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 38name = Капитан стражи - Маллакmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 39name = Бакалейщик - Шинаmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 40name = Девочка - Риолиmapid = 1areaid = 10 
+[06-12 07:11:56]AddNpcInfo:npcid = 41name = Штаб Флота - Генерал Кенmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 42name = Штаб Флота - Полковник Максиmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 43name = Морфейка - Фреяmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 44name = Стражник - Ниссонmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 45name = Стражник - Сонниmapid = 1areaid = 8 
+[06-12 07:11:56]AddNpcInfo:npcid = 46name = Прохожая - Барбиmapid = 1areaid = 12 
+[06-12 07:11:56]AddNpcInfo:npcid = 47name = Патрульный - Маркусаmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 48name = Доктор - Чивоmapid = 1areaid = 54 
+[06-12 07:11:56]AddNpcInfo:npcid = 49name = Доктор - Миносеваmapid = 1areaid = 53 
+[06-12 07:11:56]AddNpcInfo:npcid = 50name = Фуксmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 51name = Кситронmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 52name = Кентароmapid = 1areaid = 55 
+[06-12 07:11:56]AddNpcInfo:npcid = 53name = Бабуmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 54name = Мелиссаmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 55name = Гадорmapid = 1areaid = 58 
+[06-12 07:11:56]AddNpcInfo:npcid = 56name = Малыш Ковенmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 57name = Тетушка Мэриmapid = 1areaid = 3 
+[06-12 07:11:56]AddNpcInfo:npcid = 58name = Ваалаmapid = 1areaid = 61 
+[06-12 07:11:56]AddNpcInfo:npcid = 59name = Александисmapid = 1areaid = 58 
+[06-12 07:11:56]AddNpcInfo:npcid = 60name = Старик Ковенmapid = 1areaid = 63 
+[06-12 07:11:56]AddNpcInfo:npcid = 61name = Морской советник - Аленаmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 62name = Корабел - Синбадmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 63name = Диспетчер порта - Шерлиmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 64name = Дурьянmapid = 1areaid = 58 
+[06-12 07:11:56]AddNpcInfo:npcid = 65name = Лейнаmapid = 1areaid = 58 
+[06-12 07:11:56]AddNpcInfo:npcid = 66name = Дон Питтmapid = 1areaid = 61 
+[06-12 07:11:56]AddNpcInfo:npcid = 67name = Профессор Фейнmapid = 1areaid = 61 
+[06-12 07:11:56]AddNpcInfo:npcid = 68name = Гидерийmapid = 1areaid = 61 
+[06-12 07:11:56]AddNpcInfo:npcid = 69name = Охранник - Кейлmapid = 1areaid = 55 
+[06-12 07:11:56]AddNpcInfo:npcid = 70name = Берриmapid = 1areaid = 55 
+[06-12 07:11:56]AddNpcInfo:npcid = 71name = Геляmapid = 1areaid = 55 
+[06-12 07:11:56]AddNpcInfo:npcid = 72name = Грегmapid = 1areaid = 55 
+[06-12 07:11:56]AddNpcInfo:npcid = 73name = Линдаmapid = 1areaid = 63 
+[06-12 07:11:56]AddNpcInfo:npcid = 74name = Дадаmapid = 1areaid = 63 
+[06-12 07:11:56]AddNpcInfo:npcid = 75name = Грегmapid = 1areaid = 63 
+[06-12 07:11:56]AddNpcInfo:npcid = 76name = Предводитель клана - Альбудаmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 77name = Рабочий-Оейmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 78name = Моряк - Мойаmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 79name = Банкир - Юдисmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 80name = Береговой страж - Франкоmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 81name = Кузнец - Ковальmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 82name = Девочка - Хэленmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 83name = Бакалейщик - Амосmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 84name = Трактирщица - Харкенmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 85name = Сиделка - Лендиmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 86name = Пират Декиmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 87name = Корабел - Франклинmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 88name = Штаб флота - Адмирал Никmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 89name = Глава Шайтана - Плутоmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 90name = Прохожий - Вовоmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 91name = Помощник - Тинтикmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 92name = Песчаный бандит - Супермуньmapid = 2areaid = 15 
+[06-12 07:11:56]AddNpcInfo:npcid = 93name = Принц-тритон - Хассанmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 94name = Музыкант - Шармельmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 95name = Благочестивая жрица - Адаmapid = 2areaid = 14 
+[06-12 07:11:56]AddNpcInfo:npcid = 96name = Прохожий - Фейруmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 97name = Глава гильдии - Форланmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 98name = Страж - Майклmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 99name = Целительница Шайлаmapid = 2areaid = 13 
+[06-12 07:11:56]AddNpcInfo:npcid = 100name = Минеллиmapid = 2areaid = 62 
+[06-12 07:11:56]AddNpcInfo:npcid = 101name = Августианmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 102name = Джейнааmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 103name = Дитароmapid = 2areaid = 57 
+[06-12 07:11:56]AddNpcInfo:npcid = 104name = Рубен Актийmapid = 2areaid = 15 
+[06-12 07:11:56]AddNpcInfo:npcid = 105name = Мерриксmapid = 2areaid = 15 
+[06-12 07:11:56]AddNpcInfo:npcid = 106name = Гадасmapid = 2areaid = 15 
+[06-12 07:11:56]AddNpcInfo:npcid = 107name = Кавойскиmapid = 2areaid = 57 
+[06-12 07:11:56]AddNpcInfo:npcid = 108name = Бекmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 109name = Хэмmapid = 2areaid = 14 
+[06-12 07:11:56]AddNpcInfo:npcid = 110name = Лавьюриmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 111name = Робинmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 112name = Диспетчер порта - Маркmapid = 2areaid = 16 
+[06-12 07:11:56]AddNpcInfo:npcid = 113name = Солнmapid = 2areaid = 62 
+[06-12 07:11:56]AddNpcInfo:npcid = 114name = Одессийmapid = 2areaid = 62 
+[06-12 07:11:56]AddNpcInfo:npcid = 115name = Момоmapid = 2areaid = 62 
+[06-12 07:11:56]AddNpcInfo:npcid = 116name = Венонаmapid = 2areaid = 57 
+[06-12 07:11:56]AddNpcInfo:npcid = 117name = Фей Фейmapid = 2areaid = 57 
+[06-12 07:11:56]AddNpcInfo:npcid = 118name = Маркусmapid = 2areaid = 57 
+[06-12 07:11:56]AddNpcInfo:npcid = 119name = Кузнец - Башmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 120name = Бакалейщик - Палпинmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 121name = Целитель - Дайшаmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 122name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 123name = Глава Ледыни - Рейноmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 124name = Монарх Ледыни - Масmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 125name = Банкир - Белиндаmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 126name = Официантка - Бабараmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 127name = Портной - Ханнаmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 128name = Трактирщик - Яскиmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 129name = Малыш Моmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 130name = Вынньmapid = 3areaid = 19 
+[06-12 07:11:56]AddNpcInfo:npcid = 131name = Лессиmapid = 3areaid = 19 
+[06-12 07:11:56]AddNpcInfo:npcid = 132name = Додоmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 133name = Лямутmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 134name = Айрисисmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 135name = Елунаmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 136name = Шередаmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 137name = Чаоmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 138name = Клубничкаmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 139name = Еваmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 140name = Сюзаннаmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 141name = Каролинаmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 142name = Джемесонmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 143name = Люсиmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 144name = Юландорmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 145name = Кетанmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 146name = Девушка Еленаmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 147name = Диспетчер порта - Силионmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 148name = Корабел - Джорджmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 149name = Моряк - Аяксmapid = 3areaid = 21 
+[06-12 07:11:56]AddNpcInfo:npcid = 150name = Виллиmapid = 3areaid = 59 
+[06-12 07:11:56]AddNpcInfo:npcid = 151name = Зурбиmapid = 3areaid = 59 
+[06-12 07:11:56]AddNpcInfo:npcid = 152name = Гасардийmapid = 3areaid = 59 
+[06-12 07:11:56]AddNpcInfo:npcid = 153name = Джули Огонекmapid = 3areaid = 59 
+[06-12 07:11:56]AddNpcInfo:npcid = 154name = Алкарmapid = 3areaid = 59 
+[06-12 07:11:56]AddNpcInfo:npcid = 155name = Оракул - Лунный Светmapid = 3areaid = 60 
+[06-12 07:11:56]AddNpcInfo:npcid = 156name = Зевсmapid = 3areaid = 60 
+[06-12 07:11:56]AddNpcInfo:npcid = 157name = Хохоmapid = 3areaid = 60 
+[06-12 07:11:56]AddNpcInfo:npcid = 158name = Неляmapid = 3areaid = 64 
+[06-12 07:11:56]AddNpcInfo:npcid = 159name = Лулуmapid = 3areaid = 64 
+[06-12 07:11:56]AddNpcInfo:npcid = 160name = Миккилонmapid = 3areaid = 64 
+[06-12 07:11:56]AddNpcInfo:npcid = 161name = Фардиmapid = 3areaid = 64 
+[06-12 07:11:56]AddNpcInfo:npcid = 162name = Джернисmapid = 3areaid = 56 
+[06-12 07:11:56]AddNpcInfo:npcid = 163name = Бабушка Донгmapid = 3areaid = 56 
+[06-12 07:11:56]AddNpcInfo:npcid = 164name = Нанаmapid = 3areaid = 56 
+[06-12 07:11:56]AddNpcInfo:npcid = 165name = Старик-предсказательmapid = 3areaid = 56 
+[06-12 07:11:56]AddNpcInfo:npcid = 166name = Грузчик - Хурадарmapid = 1areaid = 55 
+[06-12 07:11:56]AddNpcInfo:npcid = 167name = Грузчик - Мокинmapid = 1areaid = 58 
+[06-12 07:11:56]AddNpcInfo:npcid = 168name = Диспетчер порта - Доморуmapid = 2areaid = 77 
+[06-12 07:11:56]AddNpcInfo:npcid = 169name = Диспетчер порта - Баросmapid = 2areaid = 79 
+[06-12 07:11:56]AddNpcInfo:npcid = 170name = Диспетчер порта - Луиджиmapid = 2areaid = 75 
+[06-12 07:11:56]AddNpcInfo:npcid = 171name = Диспетчер порта - Диданmapid = 2areaid = 80 
+[06-12 07:11:56]AddNpcInfo:npcid = 172name = Диспетчер порта - Даннийmapid = 2areaid = 81 
+[06-12 07:11:56]AddNpcInfo:npcid = 173name = Диспетчер порта - Даругаmapid = 1areaid = 72 
+[06-12 07:11:56]AddNpcInfo:npcid = 174name = Грузчик - Алкинсmapid = 3areaid = 59 
+[06-12 07:11:56]AddNpcInfo:npcid = 175name = Тайmapid = 3areaid = 60 
+[06-12 07:11:56]AddNpcInfo:npcid = 176name = Диспетчер порта - Фарделлmapid = 1areaid = 74 
+[06-12 07:11:56]AddNpcInfo:npcid = 177name = Диспетчер порта - Уайткомбиmapid = 1areaid = 73 
+[06-12 07:11:56]AddNpcInfo:npcid = 178name = Диспетчер порта - Грегориmapid = 3areaid = 83 
+[06-12 07:11:56]AddNpcInfo:npcid = 179name = Диспетчер порта - Уитниmapid = 1areaid = 71 
+[06-12 07:11:56]AddNpcInfo:npcid = 180name = Диспетчер порта - Буниmapid = 2areaid = 76 
+[06-12 07:11:56]AddNpcInfo:npcid = 181name = Диспетчер порта - Рамусmapid = 3areaid = 85 
+[06-12 07:11:56]AddNpcInfo:npcid = 182name = Диспетчер порта - Сокmapid = 2areaid = 82 
+[06-12 07:11:56]AddNpcInfo:npcid = 183name = Диспетчер порта - Тибаmapid = 2areaid = 78 
+[06-12 07:11:56]AddNpcInfo:npcid = 184name = Страж Аргента - Питерmapid = 1areaid = 1 
+[06-12 07:11:56]AddNpcInfo:npcid = 185name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-12 07:11:56]AddNpcInfo:npcid = 186name = Диспетчер порта - Одиmapid = 3areaid = 84 
+[06-12 07:11:56]AddNpcInfo:npcid = 187name = Первосвященник - Гэнонmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 1name = Секретарь Аргента - Сальвьерmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 2name = Кузнец - Голдиmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 3name = Горожанка - Маргаретmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 4name = Бабушка Бельдиmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 5name = Маленький Даниэльmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 6name = Торговец Чироmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 7name = Целитель - Дитоmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 8name = Банкир - Моникаmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 9name = Трактирщица - Мэриамmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 10name = Форбейmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 11name = Моряк - Коддиmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 12name = Генерал Вильямmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 13name = Медсестра Джинаmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 14name = Посол Шайтана - Ксибаmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 15name = Правитель Аргента - Рональдmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 16name = Старик - Пачкуляmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 17name = Бакалейщик - Джимбериmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 18name = Портниха - Бабушка Нилияmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 19name = Помощник - Рориmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 20name = Барменша - Доннаmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 21name = Пьянчуга - Антонийmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 22name = Юноша - Томмиmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 23name = Мануфактурщик - Дезмонmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 24name = Контрабандист Бунниmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 25name = Глава Флота - Дессароmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 26name = Официантка - Монаmapid = 1areaid = 10 
+[06-13 17:04:29]AddNpcInfo:npcid = 27name = Моряк - Диоmapid = 1areaid = 10 
+[06-13 17:04:29]AddNpcInfo:npcid = 28name = Купец - Сэнджейmapid = 1areaid = 10 
+[06-13 17:04:29]AddNpcInfo:npcid = 29name = Доктор - Масаmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 30name = Банкир - Макурдоmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 31name = Кузнец - Фарлингтонmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 32name = Девочка - Синдиmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 33name = Посол Шайтана - Аликсmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 34name = Рабочий - Уэслиmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 35name = Трактирщица - Бабушка Майяmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 36name = Портной - Дитерmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 37name = Посол Аргента - Ятаmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 38name = Капитан стражи - Маллакmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 39name = Бакалейщик - Шинаmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 40name = Девочка - Риолиmapid = 1areaid = 10 
+[06-13 17:04:29]AddNpcInfo:npcid = 41name = Штаб Флота - Генерал Кенmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 42name = Штаб Флота - Полковник Максиmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 43name = Морфейка - Фреяmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 44name = Стражник - Ниссонmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 45name = Стражник - Сонниmapid = 1areaid = 8 
+[06-13 17:04:29]AddNpcInfo:npcid = 46name = Прохожая - Барбиmapid = 1areaid = 12 
+[06-13 17:04:29]AddNpcInfo:npcid = 47name = Патрульный - Маркусаmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 48name = Доктор - Чивоmapid = 1areaid = 54 
+[06-13 17:04:29]AddNpcInfo:npcid = 49name = Доктор - Миносеваmapid = 1areaid = 53 
+[06-13 17:04:29]AddNpcInfo:npcid = 50name = Фуксmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 51name = Кситронmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 52name = Кентароmapid = 1areaid = 55 
+[06-13 17:04:29]AddNpcInfo:npcid = 53name = Бабуmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 54name = Мелиссаmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 55name = Гадорmapid = 1areaid = 58 
+[06-13 17:04:29]AddNpcInfo:npcid = 56name = Малыш Ковенmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 57name = Тетушка Мэриmapid = 1areaid = 3 
+[06-13 17:04:29]AddNpcInfo:npcid = 58name = Ваалаmapid = 1areaid = 61 
+[06-13 17:04:29]AddNpcInfo:npcid = 59name = Александисmapid = 1areaid = 58 
+[06-13 17:04:29]AddNpcInfo:npcid = 60name = Старик Ковенmapid = 1areaid = 63 
+[06-13 17:04:29]AddNpcInfo:npcid = 61name = Морской советник - Аленаmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 62name = Корабел - Синбадmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 63name = Диспетчер порта - Шерлиmapid = 1areaid = 1 
+[06-13 17:04:29]AddNpcInfo:npcid = 64name = Дурьянmapid = 1areaid = 58 
+[06-13 17:04:29]AddNpcInfo:npcid = 65name = Лейнаmapid = 1areaid = 58 
+[06-13 17:04:29]AddNpcInfo:npcid = 66name = Дон Питтmapid = 1areaid = 61 
+[06-13 17:04:29]AddNpcInfo:npcid = 67name = Профессор Фейнmapid = 1areaid = 61 
+[06-13 17:04:29]AddNpcInfo:npcid = 68name = Гидерийmapid = 1areaid = 61 
+[06-13 17:04:29]AddNpcInfo:npcid = 69name = Охранник - Кейлmapid = 1areaid = 55 
+[06-13 17:04:29]AddNpcInfo:npcid = 70name = Берриmapid = 1areaid = 55 
+[06-13 17:04:29]AddNpcInfo:npcid = 71name = Геляmapid = 1areaid = 55 
+[06-13 17:04:29]AddNpcInfo:npcid = 72name = Грегmapid = 1areaid = 55 
+[06-13 17:04:29]AddNpcInfo:npcid = 73name = Линдаmapid = 1areaid = 63 
+[06-13 17:04:29]AddNpcInfo:npcid = 74name = Дадаmapid = 1areaid = 63 
+[06-13 17:04:29]AddNpcInfo:npcid = 75name = Грегmapid = 1areaid = 63 
+[06-13 17:04:29]AddNpcInfo:npcid = 76name = Предводитель клана - Альбудаmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 77name = Рабочий-Оейmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 78name = Моряк - Мойаmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 79name = Банкир - Юдисmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 80name = Береговой страж - Франкоmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 81name = Кузнец - Ковальmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 82name = Девочка - Хэленmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 83name = Бакалейщик - Амосmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 84name = Трактирщица - Харкенmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 85name = Сиделка - Лендиmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 86name = Пират Декиmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 87name = Корабел - Франклинmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 88name = Штаб флота - Адмирал Никmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 89name = Глава Шайтана - Плутоmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 90name = Прохожий - Вовоmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 91name = Помощник - Тинтикmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 92name = Песчаный бандит - Супермуньmapid = 2areaid = 15 
+[06-13 17:04:29]AddNpcInfo:npcid = 93name = Принц-тритон - Хассанmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 94name = Музыкант - Шармельmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 95name = Благочестивая жрица - Адаmapid = 2areaid = 14 
+[06-13 17:04:29]AddNpcInfo:npcid = 96name = Прохожий - Фейруmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 97name = Глава гильдии - Форланmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 98name = Страж - Майклmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 99name = Целительница Шайлаmapid = 2areaid = 13 
+[06-13 17:04:29]AddNpcInfo:npcid = 100name = Минеллиmapid = 2areaid = 62 
+[06-13 17:04:29]AddNpcInfo:npcid = 101name = Августианmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 102name = Джейнааmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 103name = Дитароmapid = 2areaid = 57 
+[06-13 17:04:29]AddNpcInfo:npcid = 104name = Рубен Актийmapid = 2areaid = 15 
+[06-13 17:04:29]AddNpcInfo:npcid = 105name = Мерриксmapid = 2areaid = 15 
+[06-13 17:04:29]AddNpcInfo:npcid = 106name = Гадасmapid = 2areaid = 15 
+[06-13 17:04:29]AddNpcInfo:npcid = 107name = Кавойскиmapid = 2areaid = 57 
+[06-13 17:04:29]AddNpcInfo:npcid = 108name = Бекmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 109name = Хэмmapid = 2areaid = 14 
+[06-13 17:04:29]AddNpcInfo:npcid = 110name = Лавьюриmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 111name = Робинmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 112name = Диспетчер порта - Маркmapid = 2areaid = 16 
+[06-13 17:04:29]AddNpcInfo:npcid = 113name = Солнmapid = 2areaid = 62 
+[06-13 17:04:29]AddNpcInfo:npcid = 114name = Одессийmapid = 2areaid = 62 
+[06-13 17:04:29]AddNpcInfo:npcid = 115name = Момоmapid = 2areaid = 62 
+[06-13 17:04:29]AddNpcInfo:npcid = 116name = Венонаmapid = 2areaid = 57 
+[06-13 17:04:29]AddNpcInfo:npcid = 117name = Фей Фейmapid = 2areaid = 57 
+[06-13 17:04:29]AddNpcInfo:npcid = 118name = Маркусmapid = 2areaid = 57 
+[06-13 17:04:29]AddNpcInfo:npcid = 119name = Кузнец - Башmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 120name = Бакалейщик - Палпинmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 121name = Целитель - Дайшаmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 122name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 123name = Глава Ледыни - Рейноmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 124name = Монарх Ледыни - Масmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 125name = Банкир - Белиндаmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 126name = Официантка - Бабараmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 127name = Портной - Ханнаmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 128name = Трактирщик - Яскиmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 129name = Малыш Моmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 130name = Вынньmapid = 3areaid = 19 
+[06-13 17:04:29]AddNpcInfo:npcid = 131name = Лессиmapid = 3areaid = 19 
+[06-13 17:04:29]AddNpcInfo:npcid = 132name = Додоmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 133name = Лямутmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 134name = Айрисисmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 135name = Елунаmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 136name = Шередаmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 137name = Чаоmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 138name = Клубничкаmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 139name = Еваmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 140name = Сюзаннаmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 141name = Каролинаmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 142name = Джемесонmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 143name = Люсиmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 144name = Юландорmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 145name = Кетанmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 146name = Девушка Еленаmapid = 3areaid = 20 
+[06-13 17:04:29]AddNpcInfo:npcid = 147name = Диспетчер порта - Силионmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 148name = Корабел - Джорджmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 149name = Моряк - Аяксmapid = 3areaid = 21 
+[06-13 17:04:29]AddNpcInfo:npcid = 150name = Виллиmapid = 3areaid = 59 
+[06-13 17:04:29]AddNpcInfo:npcid = 151name = Зурбиmapid = 3areaid = 59 
+[06-13 17:04:29]AddNpcInfo:npcid = 152name = Гасардийmapid = 3areaid = 59 
+[06-13 17:04:29]AddNpcInfo:npcid = 153name = Джули Огонекmapid = 3areaid = 59 
+[06-13 17:04:29]AddNpcInfo:npcid = 154name = Алкарmapid = 3areaid = 59 
+[06-13 17:04:29]AddNpcInfo:npcid = 155name = Оракул - Лунный Светmapid = 3areaid = 60 
+[06-13 17:04:29]AddNpcInfo:npcid = 156name = Зевсmapid = 3areaid = 60 
+[06-13 17:04:30]AddNpcInfo:npcid = 157name = Хохоmapid = 3areaid = 60 
+[06-13 17:04:30]AddNpcInfo:npcid = 158name = Неляmapid = 3areaid = 64 
+[06-13 17:04:30]AddNpcInfo:npcid = 159name = Лулуmapid = 3areaid = 64 
+[06-13 17:04:30]AddNpcInfo:npcid = 160name = Миккилонmapid = 3areaid = 64 
+[06-13 17:04:30]AddNpcInfo:npcid = 161name = Фардиmapid = 3areaid = 64 
+[06-13 17:04:30]AddNpcInfo:npcid = 162name = Джернисmapid = 3areaid = 56 
+[06-13 17:04:30]AddNpcInfo:npcid = 163name = Бабушка Донгmapid = 3areaid = 56 
+[06-13 17:04:30]AddNpcInfo:npcid = 164name = Нанаmapid = 3areaid = 56 
+[06-13 17:04:30]AddNpcInfo:npcid = 165name = Старик-предсказательmapid = 3areaid = 56 
+[06-13 17:04:30]AddNpcInfo:npcid = 166name = Грузчик - Хурадарmapid = 1areaid = 55 
+[06-13 17:04:30]AddNpcInfo:npcid = 167name = Грузчик - Мокинmapid = 1areaid = 58 
+[06-13 17:04:30]AddNpcInfo:npcid = 168name = Диспетчер порта - Доморуmapid = 2areaid = 77 
+[06-13 17:04:30]AddNpcInfo:npcid = 169name = Диспетчер порта - Баросmapid = 2areaid = 79 
+[06-13 17:04:30]AddNpcInfo:npcid = 170name = Диспетчер порта - Луиджиmapid = 2areaid = 75 
+[06-13 17:04:30]AddNpcInfo:npcid = 171name = Диспетчер порта - Диданmapid = 2areaid = 80 
+[06-13 17:04:30]AddNpcInfo:npcid = 172name = Диспетчер порта - Даннийmapid = 2areaid = 81 
+[06-13 17:04:30]AddNpcInfo:npcid = 173name = Диспетчер порта - Даругаmapid = 1areaid = 72 
+[06-13 17:04:30]AddNpcInfo:npcid = 174name = Грузчик - Алкинсmapid = 3areaid = 59 
+[06-13 17:04:30]AddNpcInfo:npcid = 175name = Тайmapid = 3areaid = 60 
+[06-13 17:04:30]AddNpcInfo:npcid = 176name = Диспетчер порта - Фарделлmapid = 1areaid = 74 
+[06-13 17:04:30]AddNpcInfo:npcid = 177name = Диспетчер порта - Уайткомбиmapid = 1areaid = 73 
+[06-13 17:04:30]AddNpcInfo:npcid = 178name = Диспетчер порта - Грегориmapid = 3areaid = 83 
+[06-13 17:04:30]AddNpcInfo:npcid = 179name = Диспетчер порта - Уитниmapid = 1areaid = 71 
+[06-13 17:04:30]AddNpcInfo:npcid = 180name = Диспетчер порта - Буниmapid = 2areaid = 76 
+[06-13 17:04:30]AddNpcInfo:npcid = 181name = Диспетчер порта - Рамусmapid = 3areaid = 85 
+[06-13 17:04:30]AddNpcInfo:npcid = 182name = Диспетчер порта - Сокmapid = 2areaid = 82 
+[06-13 17:04:30]AddNpcInfo:npcid = 183name = Диспетчер порта - Тибаmapid = 2areaid = 78 
+[06-13 17:04:30]AddNpcInfo:npcid = 184name = Страж Аргента - Питерmapid = 1areaid = 1 
+[06-13 17:04:30]AddNpcInfo:npcid = 185name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-13 17:04:30]AddNpcInfo:npcid = 186name = Диспетчер порта - Одиmapid = 3areaid = 84 
+[06-13 17:04:30]AddNpcInfo:npcid = 187name = Первосвященник - Гэнонmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 1name = Секретарь Аргента - Сальвьерmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 2name = Кузнец - Голдиmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 3name = Горожанка - Маргаретmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 4name = Бабушка Бельдиmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 5name = Маленький Даниэльmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 6name = Торговец Чироmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 7name = Целитель - Дитоmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 8name = Банкир - Моникаmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 9name = Трактирщица - Мэриамmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 10name = Форбейmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 11name = Моряк - Коддиmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 12name = Генерал Вильямmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 13name = Медсестра Джинаmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 14name = Посол Шайтана - Ксибаmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 15name = Правитель Аргента - Рональдmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 16name = Старик - Пачкуляmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 17name = Бакалейщик - Джимбериmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 18name = Портниха - Бабушка Нилияmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 19name = Помощник - Рориmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 20name = Барменша - Доннаmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 21name = Пьянчуга - Антонийmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 22name = Юноша - Томмиmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 23name = Мануфактурщик - Дезмонmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 24name = Контрабандист Бунниmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 25name = Глава Флота - Дессароmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 26name = Официантка - Монаmapid = 1areaid = 10 
+[06-18 06:14:16]AddNpcInfo:npcid = 27name = Моряк - Диоmapid = 1areaid = 10 
+[06-18 06:14:16]AddNpcInfo:npcid = 28name = Купец - Сэнджейmapid = 1areaid = 10 
+[06-18 06:14:16]AddNpcInfo:npcid = 29name = Доктор - Масаmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 30name = Банкир - Макурдоmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 31name = Кузнец - Фарлингтонmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 32name = Девочка - Синдиmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 33name = Посол Шайтана - Аликсmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 34name = Рабочий - Уэслиmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 35name = Трактирщица - Бабушка Майяmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 36name = Портной - Дитерmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 37name = Посол Аргента - Ятаmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 38name = Капитан стражи - Маллакmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 39name = Бакалейщик - Шинаmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 40name = Девочка - Риолиmapid = 1areaid = 10 
+[06-18 06:14:16]AddNpcInfo:npcid = 41name = Штаб Флота - Генерал Кенmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 42name = Штаб Флота - Полковник Максиmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 43name = Морфейка - Фреяmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 44name = Стражник - Ниссонmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 45name = Стражник - Сонниmapid = 1areaid = 8 
+[06-18 06:14:16]AddNpcInfo:npcid = 46name = Прохожая - Барбиmapid = 1areaid = 12 
+[06-18 06:14:16]AddNpcInfo:npcid = 47name = Патрульный - Маркусаmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 48name = Доктор - Чивоmapid = 1areaid = 54 
+[06-18 06:14:16]AddNpcInfo:npcid = 49name = Доктор - Миносеваmapid = 1areaid = 53 
+[06-18 06:14:16]AddNpcInfo:npcid = 50name = Фуксmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 51name = Кситронmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 52name = Кентароmapid = 1areaid = 55 
+[06-18 06:14:16]AddNpcInfo:npcid = 53name = Бабуmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 54name = Мелиссаmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 55name = Гадорmapid = 1areaid = 58 
+[06-18 06:14:16]AddNpcInfo:npcid = 56name = Малыш Ковенmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 57name = Тетушка Мэриmapid = 1areaid = 3 
+[06-18 06:14:16]AddNpcInfo:npcid = 58name = Ваалаmapid = 1areaid = 61 
+[06-18 06:14:16]AddNpcInfo:npcid = 59name = Александисmapid = 1areaid = 58 
+[06-18 06:14:16]AddNpcInfo:npcid = 60name = Старик Ковенmapid = 1areaid = 63 
+[06-18 06:14:16]AddNpcInfo:npcid = 61name = Морской советник - Аленаmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 62name = Корабел - Синбадmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 63name = Диспетчер порта - Шерлиmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 64name = Дурьянmapid = 1areaid = 58 
+[06-18 06:14:16]AddNpcInfo:npcid = 65name = Лейнаmapid = 1areaid = 58 
+[06-18 06:14:16]AddNpcInfo:npcid = 66name = Дон Питтmapid = 1areaid = 61 
+[06-18 06:14:16]AddNpcInfo:npcid = 67name = Профессор Фейнmapid = 1areaid = 61 
+[06-18 06:14:16]AddNpcInfo:npcid = 68name = Гидерийmapid = 1areaid = 61 
+[06-18 06:14:16]AddNpcInfo:npcid = 69name = Охранник - Кейлmapid = 1areaid = 55 
+[06-18 06:14:16]AddNpcInfo:npcid = 70name = Берриmapid = 1areaid = 55 
+[06-18 06:14:16]AddNpcInfo:npcid = 71name = Геляmapid = 1areaid = 55 
+[06-18 06:14:16]AddNpcInfo:npcid = 72name = Грегmapid = 1areaid = 55 
+[06-18 06:14:16]AddNpcInfo:npcid = 73name = Линдаmapid = 1areaid = 63 
+[06-18 06:14:16]AddNpcInfo:npcid = 74name = Дадаmapid = 1areaid = 63 
+[06-18 06:14:16]AddNpcInfo:npcid = 75name = Грегmapid = 1areaid = 63 
+[06-18 06:14:16]AddNpcInfo:npcid = 76name = Предводитель клана - Альбудаmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 77name = Рабочий-Оейmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 78name = Моряк - Мойаmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 79name = Банкир - Юдисmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 80name = Береговой страж - Франкоmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 81name = Кузнец - Ковальmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 82name = Девочка - Хэленmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 83name = Бакалейщик - Амосmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 84name = Трактирщица - Харкенmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 85name = Сиделка - Лендиmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 86name = Пират Декиmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 87name = Корабел - Франклинmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 88name = Штаб флота - Адмирал Никmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 89name = Глава Шайтана - Плутоmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 90name = Прохожий - Вовоmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 91name = Помощник - Тинтикmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 92name = Песчаный бандит - Супермуньmapid = 2areaid = 15 
+[06-18 06:14:16]AddNpcInfo:npcid = 93name = Принц-тритон - Хассанmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 94name = Музыкант - Шармельmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 95name = Благочестивая жрица - Адаmapid = 2areaid = 14 
+[06-18 06:14:16]AddNpcInfo:npcid = 96name = Прохожий - Фейруmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 97name = Глава гильдии - Форланmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 98name = Страж - Майклmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 99name = Целительница Шайлаmapid = 2areaid = 13 
+[06-18 06:14:16]AddNpcInfo:npcid = 100name = Минеллиmapid = 2areaid = 62 
+[06-18 06:14:16]AddNpcInfo:npcid = 101name = Августианmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 102name = Джейнааmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 103name = Дитароmapid = 2areaid = 57 
+[06-18 06:14:16]AddNpcInfo:npcid = 104name = Рубен Актийmapid = 2areaid = 15 
+[06-18 06:14:16]AddNpcInfo:npcid = 105name = Мерриксmapid = 2areaid = 15 
+[06-18 06:14:16]AddNpcInfo:npcid = 106name = Гадасmapid = 2areaid = 15 
+[06-18 06:14:16]AddNpcInfo:npcid = 107name = Кавойскиmapid = 2areaid = 57 
+[06-18 06:14:16]AddNpcInfo:npcid = 108name = Бекmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 109name = Хэмmapid = 2areaid = 14 
+[06-18 06:14:16]AddNpcInfo:npcid = 110name = Лавьюриmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 111name = Робинmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 112name = Диспетчер порта - Маркmapid = 2areaid = 16 
+[06-18 06:14:16]AddNpcInfo:npcid = 113name = Солнmapid = 2areaid = 62 
+[06-18 06:14:16]AddNpcInfo:npcid = 114name = Одессийmapid = 2areaid = 62 
+[06-18 06:14:16]AddNpcInfo:npcid = 115name = Момоmapid = 2areaid = 62 
+[06-18 06:14:16]AddNpcInfo:npcid = 116name = Венонаmapid = 2areaid = 57 
+[06-18 06:14:16]AddNpcInfo:npcid = 117name = Фей Фейmapid = 2areaid = 57 
+[06-18 06:14:16]AddNpcInfo:npcid = 118name = Маркусmapid = 2areaid = 57 
+[06-18 06:14:16]AddNpcInfo:npcid = 119name = Кузнец - Башmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 120name = Бакалейщик - Палпинmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 121name = Целитель - Дайшаmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 122name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 123name = Глава Ледыни - Рейноmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 124name = Монарх Ледыни - Масmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 125name = Банкир - Белиндаmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 126name = Официантка - Бабараmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 127name = Портной - Ханнаmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 128name = Трактирщик - Яскиmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 129name = Малыш Моmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 130name = Вынньmapid = 3areaid = 19 
+[06-18 06:14:16]AddNpcInfo:npcid = 131name = Лессиmapid = 3areaid = 19 
+[06-18 06:14:16]AddNpcInfo:npcid = 132name = Додоmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 133name = Лямутmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 134name = Айрисисmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 135name = Елунаmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 136name = Шередаmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 137name = Чаоmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 138name = Клубничкаmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 139name = Еваmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 140name = Сюзаннаmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 141name = Каролинаmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 142name = Джемесонmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 143name = Люсиmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 144name = Юландорmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 145name = Кетанmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 146name = Девушка Еленаmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 147name = Диспетчер порта - Силионmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 148name = Корабел - Джорджmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 149name = Моряк - Аяксmapid = 3areaid = 21 
+[06-18 06:14:16]AddNpcInfo:npcid = 150name = Виллиmapid = 3areaid = 59 
+[06-18 06:14:16]AddNpcInfo:npcid = 151name = Зурбиmapid = 3areaid = 59 
+[06-18 06:14:16]AddNpcInfo:npcid = 152name = Гасардийmapid = 3areaid = 59 
+[06-18 06:14:16]AddNpcInfo:npcid = 153name = Джули Огонекmapid = 3areaid = 59 
+[06-18 06:14:16]AddNpcInfo:npcid = 154name = Алкарmapid = 3areaid = 59 
+[06-18 06:14:16]AddNpcInfo:npcid = 155name = Оракул - Лунный Светmapid = 3areaid = 60 
+[06-18 06:14:16]AddNpcInfo:npcid = 156name = Зевсmapid = 3areaid = 60 
+[06-18 06:14:16]AddNpcInfo:npcid = 157name = Хохоmapid = 3areaid = 60 
+[06-18 06:14:16]AddNpcInfo:npcid = 158name = Неляmapid = 3areaid = 64 
+[06-18 06:14:16]AddNpcInfo:npcid = 159name = Лулуmapid = 3areaid = 64 
+[06-18 06:14:16]AddNpcInfo:npcid = 160name = Миккилонmapid = 3areaid = 64 
+[06-18 06:14:16]AddNpcInfo:npcid = 161name = Фардиmapid = 3areaid = 64 
+[06-18 06:14:16]AddNpcInfo:npcid = 162name = Джернисmapid = 3areaid = 56 
+[06-18 06:14:16]AddNpcInfo:npcid = 163name = Бабушка Донгmapid = 3areaid = 56 
+[06-18 06:14:16]AddNpcInfo:npcid = 164name = Нанаmapid = 3areaid = 56 
+[06-18 06:14:16]AddNpcInfo:npcid = 165name = Старик-предсказательmapid = 3areaid = 56 
+[06-18 06:14:16]AddNpcInfo:npcid = 166name = Грузчик - Хурадарmapid = 1areaid = 55 
+[06-18 06:14:16]AddNpcInfo:npcid = 167name = Грузчик - Мокинmapid = 1areaid = 58 
+[06-18 06:14:16]AddNpcInfo:npcid = 168name = Диспетчер порта - Доморуmapid = 2areaid = 77 
+[06-18 06:14:16]AddNpcInfo:npcid = 169name = Диспетчер порта - Баросmapid = 2areaid = 79 
+[06-18 06:14:16]AddNpcInfo:npcid = 170name = Диспетчер порта - Луиджиmapid = 2areaid = 75 
+[06-18 06:14:16]AddNpcInfo:npcid = 171name = Диспетчер порта - Диданmapid = 2areaid = 80 
+[06-18 06:14:16]AddNpcInfo:npcid = 172name = Диспетчер порта - Даннийmapid = 2areaid = 81 
+[06-18 06:14:16]AddNpcInfo:npcid = 173name = Диспетчер порта - Даругаmapid = 1areaid = 72 
+[06-18 06:14:16]AddNpcInfo:npcid = 174name = Грузчик - Алкинсmapid = 3areaid = 59 
+[06-18 06:14:16]AddNpcInfo:npcid = 175name = Тайmapid = 3areaid = 60 
+[06-18 06:14:16]AddNpcInfo:npcid = 176name = Диспетчер порта - Фарделлmapid = 1areaid = 74 
+[06-18 06:14:16]AddNpcInfo:npcid = 177name = Диспетчер порта - Уайткомбиmapid = 1areaid = 73 
+[06-18 06:14:16]AddNpcInfo:npcid = 178name = Диспетчер порта - Грегориmapid = 3areaid = 83 
+[06-18 06:14:16]AddNpcInfo:npcid = 179name = Диспетчер порта - Уитниmapid = 1areaid = 71 
+[06-18 06:14:16]AddNpcInfo:npcid = 180name = Диспетчер порта - Буниmapid = 2areaid = 76 
+[06-18 06:14:16]AddNpcInfo:npcid = 181name = Диспетчер порта - Рамусmapid = 3areaid = 85 
+[06-18 06:14:16]AddNpcInfo:npcid = 182name = Диспетчер порта - Сокmapid = 2areaid = 82 
+[06-18 06:14:16]AddNpcInfo:npcid = 183name = Диспетчер порта - Тибаmapid = 2areaid = 78 
+[06-18 06:14:16]AddNpcInfo:npcid = 184name = Страж Аргента - Питерmapid = 1areaid = 1 
+[06-18 06:14:16]AddNpcInfo:npcid = 185name = Мечник Ледыни - Рэйmapid = 3areaid = 20 
+[06-18 06:14:16]AddNpcInfo:npcid = 186name = Диспетчер порта - Одиmapid = 3areaid = 84 
+[06-18 06:14:16]AddNpcInfo:npcid = 187name = Первосвященник - Гэнонmapid = 2areaid = 13 

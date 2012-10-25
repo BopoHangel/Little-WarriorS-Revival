@@ -1,0 +1,30 @@
+[06-08 13:37:52]receive request to create entry£ºposition hell2 --> hell[7200, 17900]£¬script line 54
+[06-08 13:37:52]create entry success£ºposition hell2 --> hell[7200, 17900] 
+[06-08 13:37:52]receive entry create success £ºposition hell --> hell2
+[06-08 13:37:52]receive request to create entry£ºposition hell4 --> hell3[19100, 18000]£¬script line 53
+[06-08 13:37:52]create entry success£ºposition hell4 --> hell3[19100, 18000] 
+[06-08 13:37:52]receive entry create success £ºposition hell3 --> hell4
+[06-08 13:37:54]receive request to create entry£ºposition teampk --> garner[0, 0]£¬script line 103
+[06-08 13:37:54]create entry success£ºposition teampk --> garner[0, 0] 
+[06-08 13:37:54]receive entry create success £ºposition garner --> teampk
+[06-12 06:43:02]receive request to create entry£ºposition abandonedcity3 --> abandonedcity2[24900, 22500]£¬script line 25
+[06-12 06:43:02]create entry success£ºposition abandonedcity3 --> abandonedcity2[24900, 22500] 
+[06-12 06:43:02]receive entry create success £ºposition abandonedcity2 --> abandonedcity3
+[06-12 06:43:02]receive request to create entry£ºposition hell4 --> hell3[19100, 18000]£¬script line 53
+[06-12 06:43:02]create entry success£ºposition hell4 --> hell3[19100, 18000] 
+[06-12 06:43:02]receive entry create success £ºposition hell3 --> hell4
+[06-12 06:43:04]receive request to create entry£ºposition puzzleworld2 --> puzzleworld[17200, 16500]£¬script line 23
+[06-12 06:43:04]create entry success£ºposition puzzleworld2 --> puzzleworld[17200, 16500] 
+[06-12 06:43:04]receive entry create success £ºposition puzzleworld --> puzzleworld2
+[06-12 06:43:04]receive request to create entry£ºposition teampk --> garner[0, 0]£¬script line 103
+[06-12 06:43:04]create entry success£ºposition teampk --> garner[0, 0] 
+[06-12 06:43:04]receive entry create success £ºposition garner --> teampk
+[06-12 07:00:03]receive request to create entry£ºposition mjing1 --> winterland[0, 0]£¬script line 24
+[06-12 07:00:03]create entry success£ºposition mjing1 --> winterland[0, 0] 
+[06-12 07:00:03]receive entry create success £ºposition winterland --> mjing1
+[06-12 07:00:03]receive request to create entry£ºposition mjing2 --> winterland[0, 0]£¬script line 25
+[06-12 07:00:03]create entry success£ºposition mjing2 --> winterland[0, 0] 
+[06-12 07:00:03]receive entry create success £ºposition winterland --> mjing2
+[06-12 07:00:03]receive request to create entry£ºposition mjing3 --> winterland[0, 0]£¬script line 23
+[06-12 07:00:03]create entry success£ºposition mjing3 --> winterland[0, 0] 
+[06-12 07:00:03]receive entry create success £ºposition winterland --> mjing3

@@ -1,0 +1,53 @@
+1	Огненный самоцвет 	878	1,0,0	1	ItemHint_LieYanS
+2	Самоцвет Ярости 	879	2,3,7	1	ItemHint_ZhiYanS
+3	Взрывной самоцвет	880	4,0,0	1	ItemHint_HuoYaoS
+4	Люстриновый самоцвет 	881	1,2,3	1	ItemHint_MaNaoS
+5	Сияющий самоцвет 	882	11,22,27	2	ItemHint_HanYu
+6	Блестящий самоцвет 	883	11,22,27	2	ItemHint_YueZhiX
+7	Теневой самоцвет 	884	1,2,3	2	ItemHint_ShuiLingS
+8	Самоцвет духа 	887	1,2,3	4	ItemHint_ShengGuangS
+9	Гнев Ватрухи 	860	24,0,0	4	ItemHint_FengLingS
+10	Недоходчивость Арчика 	861	23,0,0	4	ItemHint_YingYanS
+11	Свобода Ворона 	862	11,22,27	4	ItemHint_YanVitS
+12	Самоцвет Отваги 	863	1,2,3	4	ItemHint_YanStrS
+13	Глаз Черного дракона	864	1,2,3	1	ItemHint_LongZhiTong
+14	Душа Черного дракона	865	11,22,27	2	ItemHint_LongZhiHun
+15	Сердце Черного дракона	866	23,24,0	2	ItemHint_LongZhiXin
+16	Самоцвет души	1012	1,2,3	4	ItemHint_GaNaZhiShen
+17	Жёлтые волосы Геракла	5750	20,0,0	2	ItemHint_HuangYu
+18	Красный пояс Геракла	5751	20,0,0	2	ItemHint_ChiYu
+19	Зеленые глаза Геракла	5752	20,0,0	2	ItemHint_QingYu
+20	Аура Возмездия	5771	20,0,0	1	ItemHint_XTLingGuang
+21	Сила Акмуса	5772	23,0,0	1	ItemHint_LKBiZhong
+22	Ловкость Странника	5773	24,0,0	2	ItemHint_BBDuoShan
+23	Защита Скорпиона	5774	22,27,0	2	ItemHint_FFDiYu
+24	Доблестный Ангел	5775	22,11,27	4	ItemHint_XKQiangHua
+25	Сияние Азраила	5845	1,2,3	1	ItemHint_SShuiyao
+26	Неупокоенный Азраил	5846	22,27,0	2	ItemHint_SSbusi
+27	Свет Азраила	5847	1,2,3	1	ItemHint_SSguangmang
+28	Соединение Азраила	5848	1,2,3	1	ItemHint_SSningju
+29	Танец Азраила	5849	24,0,0	4	ItemHint_SSxuanwu
+30	Черный Лазурит	6817	24,0,0	4	ItemHint_HLS
+31	Черный Флорит	6818	24,0,0	4	ItemHint_HYS
+32	Черный Шпинель	6819	24,0,0	4	ItemHint_HJS
+33	Белый Лазурит	6820	23,0,0	4	ItemHint_BLS
+34	Белый Флорит	6821	23,0,0	4	ItemHint_BYS
+35	Белый Шпинель	6822	23,0,0	4	ItemHint_BJS
+36	Красный Лазурит	6823	11,22,27	4	ItemHint_CLS
+37	Красный Флорит	6824	11,22,27	4	ItemHint_CYS
+38	Красный Шпинель	6825	11,22,27	4	ItemHint_CJS
+39	Фиолетовый Лазурит	6826	1,2,3	4	ItemHint_ZLS
+40	Фиолетовый Флорит	6827	1,2,3	4	ItemHint_ZYS
+41	Фиолетовый Шпинель	6828	1,2,3	4	ItemHint_ZJS
+42	Синий Лазурит	6829	1,2,3	4	ItemHint_QLS
+43	Синий Флорит	6830	1,2,3	4	ItemHint_QYS
+44	Синий Шпинель	6831	1,2,3	4	ItemHint_QJS
+45	Проклятье Зевса	7108	1,2,3	4	ItemHint_GGR
+46	Величие Артемиды	7109	1,2,3	4	ItemHint_GGS
+47	Сила Андромеды	7110	23,0,0	4	ItemHint_GGOS
+48	Обман Аида	7111	11,22,27	4	ItemHint_GGC
+49	Мудрость Афины	7112	24,0,0	4	ItemHint_GGW
+50	Самоцвет Хардина	7701	24	4	ItemHint_SPEED
+51	Самоцвет Фантома 	7702	1,2,3	1	ItemHint_ASPD
+52	Великий Самоцвет Богини	7703	11,22,27	4	ItemHint_SREC
+53	Великий Самоцвет Лиса	7704	11,22,27	4	ItemHint_HREC

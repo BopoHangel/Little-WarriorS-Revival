@@ -1,0 +1,16 @@
+[06-12 06:55:33]CDataBaseCtrl::UserLogin UID: admin, UIP: 127.0.0.1
+[06-12 06:55:33]CBillService::BeginBilling: UserName=[admin] begin billing start! ID = 1
+[06-12 07:05:28]CDataBaseCtrl::UserLogin UID: admin, UIP: 127.0.0.1
+[06-12 07:05:28]CBillService::BeginBilling: UserName=[admin] begin billing start! ID = 2
+[06-12 07:08:47]CDataBaseCtrl::UserLogin UID: admin, UIP: 127.0.0.1
+[06-12 07:08:47]CBillService::BeginBilling: UserName=[admin] begin billing start! ID = 3
+[06-12 07:12:25]CBillService::BeginBilling: UserName=[admin] begin billing start! ID = 4
+[06-12 07:12:54]CBillService::BeginBilling: UserName=[admin] begin billing end!
+[06-12 07:13:06]CBillService::BeginBilling: UserName=[admin] begin billing start! ID = 6
+[06-12 07:20:42]CBillService::BeginBilling: UserName=[admin] begin billing end!
+[06-13 17:05:56]CDataBaseCtrl::UserLogin UID: admin, UIP: 127.0.0.1
+[06-13 17:05:56]CBillService::BeginBilling: UserName=[admin] begin billing start! ID = 1
+[06-13 17:06:03]CBillService::BeginBilling: UserName=[admin] begin billing start! ID = 2
+[06-13 17:26:09]CBillService::BeginBilling: UserName=[admin] begin billing end!
+[06-13 17:27:30]CBillService::BeginBilling: UserName=[admin] begin billing start! ID = 4
+[06-13 17:29:28]CBillService::BeginBilling: UserName=[admin] begin billing end!
