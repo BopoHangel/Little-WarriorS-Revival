@@ -3543,7 +3543,7 @@ function Books() -- Продавец Скилов
    InitTrade()
    	Other(   0886   )
 --	Other(   7695   )
-   	Other(   3297   )
+--   	Other(   3297   )
    	Other(   3298   )
    	Other(   3164   )
    	Other(   3160   )

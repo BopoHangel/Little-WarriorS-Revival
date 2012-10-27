@@ -1,27 +1,26 @@
---іЋќƒЉю÷–£ђЈ≤ «њ…ƒ№±їґаіќ÷і––µƒЇѓ э£ђЇѓ э√ыґЉ“™Љ”…ѕµЎЌЉ√ы«∞„Ї£ђ»зafter_destroy_entry_testpk
---іЋќƒЉю√њ––„оіу„÷ЈыЄц эќ™255£ђ»ф”–“м“й£ђ«л”л≥ћ–тћљћ÷
+-- »мена функций должны заканчиватсь€ названием карты, такие как after_destroy_entry_mjing2
+-- Ќаибольшее число символов в строке составл€ет 255
 
 function config_entry(entry) 
-   SetMapEntryEntiID(entry, 193,1) --…и÷√µЎЌЉ»лњЏ µћеµƒ±аЇ≈£®Є√±аЇ≈ґ‘”¶”Џcharacterinfo.txtµƒЋч“э£©
+   SetMapEntryEntiID(entry, 193,1)
 
 end 
 
 function after_create_entry(entry) 
-    local copy_mgr = GetMapEntryCopyObj(entry, 0) --ііљ®Є±±Њє№јнґ‘ѕу£ђіЋЇѓ э‘Џ”–ѕ‘ љ»лњЏµƒµЎЌЉ÷–±Ў–лµч”√£ђґ‘”Џ“ю љ»лњЏµƒµЎЌЉ£®»зґ”ќйћф’љ£©ќё“™µч”√Є√љ”њЏ
+    local copy_mgr = GetMapEntryCopyObj(entry, 0)
 
-    map_name, posx, posy, tmap_name = GetMapEntryPosInfo(entry) --»°µЎЌЉ»лњЏµƒќї÷√–≈ѕҐ£®µЎЌЉ√ы£ђ„ш±к£ђƒњ±кµЎЌЉ√ы£©
-    Notice("Gate to Aurora World 2 opened at [359,180], enjoy!") --Ќ®÷™±Њ„йЈюќс∆чµƒЋщ”–ЌжЉ“
+    map_name, posx, posy, tmap_name = GetMapEntryPosInfo(entry)
+    Notice("ѕортал в јврору 2 открылс€, подробности можно узнать у ѕортальщика на острова(2329;2823)!")
 
 end
 
 function after_destroy_entry_mjing2(entry)
     map_name, posx, posy, tmap_name = GetMapEntryPosInfo(entry) 
-    Notice("Portal to Aurora Word 2 destroyed, please try again later!") 
+    Notice("ѕортал в јврору 2 закрылс€!") 
 
 end
 
 function after_player_login_mjing2(entry, player_name)
-    map_name, posx, posy, tmap_name = GetMapEntryPosInfo(entry) --»°µЎЌЉ»лњЏµƒќї÷√–≈ѕҐ£®µЎЌЉ√ы£ђ„ш±к£ђƒњ±кµЎЌЉ√ы£©
-    ChaNotice(player_name, "Portal At [359,180] Be Careful") --Ќ®÷™±Њ„йЈюќс∆чµƒЋщ”–ЌжЉ“
+    map_name, posx, posy, tmap_name = GetMapEntryPosInfo(entry)
 
 end
