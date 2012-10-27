@@ -1475,6 +1475,18 @@ function MsgProc( character, npc, rpk, page, trade, missionlist, exchangeData )
 			return GetChaName5_born(character,npc )
 		elseif item.func == GetChaName6_born then
 			return GetChaName6_born(character,npc )
+		elseif item.func == GetChaName1_born2 then
+			return GetChaName1_born2(character,npc )
+		elseif item.func == GetChaName2_born2 then
+			return GetChaName2_born2(character,npc )
+		elseif item.func == GetChaName3_born2 then
+			return GetChaName3_born2(character,npc )
+		elseif item.func == GetChaName4_born2 then
+			return GetChaName4_born2(character,npc )
+		elseif item.func == GetChaName5_born2 then
+			return GetChaName5_born2(character,npc )
+		elseif item.func == GetChaName6_born2 then
+			return GetChaName6_born2(character,npc )
 		elseif item.func == GiveHoe then
 			return GiveHoe(character,npc)
 		elseif item.func == CheckMetal then
