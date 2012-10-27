@@ -1,5 +1,5 @@
--- Имена функций должны заканчиватсья названием карты, такие как after_destroy_entry_mjing1
--- Наибольшее число символов в строке составляет 255
+-- РРјРµРЅР° С„СѓРЅРєС†РёР№ РґРѕР»Р¶РЅС‹ Р·Р°РєР°РЅС‡РёРІР°С‚СЃСЊСЏ РЅР°Р·РІР°РЅРёРµРј РєР°СЂС‚С‹, С‚Р°РєРёРµ РєР°Рє after_destroy_entry_mjing1
+-- РќР°РёР±РѕР»СЊС€РµРµ С‡РёСЃР»Рѕ СЃРёРјРІРѕР»РѕРІ РІ СЃС‚СЂРѕРєРµ СЃРѕСЃС‚Р°РІР»СЏРµС‚ 255
 
 function config_entry(entry) 
 end 
@@ -8,18 +8,18 @@ function after_create_entry(entry)
     local copy_mgr = GetMapEntryCopyObj(entry, 0)
 
     map_name, posx, posy, tmap_name = GetMapEntryPosInfo(entry) 
-    Notice("Проход в Аврору открылся, подробности можно узнать у Портальщика на острова(2329;2823)!") 
+    Notice("РџСЂРѕС…РѕРґ РІ РђРІСЂРѕСЂСѓ РѕС‚РєСЂС‹Р»СЃСЏ, РїРѕРґСЂРѕР±РЅРѕСЃС‚Рё РјРѕР¶РЅРѕ СѓР·РЅР°С‚СЊ Сѓ РџРѕСЂС‚Р°Р»СЊС‰РёРєР° РЅР° РѕСЃС‚СЂРѕРІР°(2329;2823)!") 
 
 end
 
 function after_destroy_entry_mjing1(entry)
     map_name, posx, posy, tmap_name = GetMapEntryPosInfo(entry) 
-    Notice("Проход в Аврору закрыт!") 
+    Notice("РџСЂРѕС…РѕРґ РІ РђРІСЂРѕСЂСѓ Р·Р°РєСЂС‹С‚!") 
 
 end
 
 function after_player_login_mjing1(entry, player_name)
     map_name, posx, posy, tmap_name = GetMapEntryPosInfo(entry) 
-    ChaNotice(player_name, "Добро пожаловать пираты!")
+    ChaNotice(player_name, "Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РїРёСЂР°С‚С‹!")
 
 end
