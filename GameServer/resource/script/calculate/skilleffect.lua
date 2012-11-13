@@ -15306,7 +15306,7 @@ end
 function Skill_ShouWangS_End ( ATKER , DEFER , sklv ) 
 
 
-        local dmg = math.random ( 350 , 650 )
+    local dmg = math.random ( 1350 , 1650 )
 	Hp_Endure_Dmg ( DEFER , dmg ) 
 end 
 
