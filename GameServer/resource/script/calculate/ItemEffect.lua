@@ -20770,14 +20770,23 @@ function ItemUse_XiDianBook ( role , item )
 		if n > 0 then							
 			local job = GetChaAttr( role, ATTR_JOB)				--Проверка профессии
 			local item_id = {}
+			-- Первое перерождение
 			item_id [8] = 2957
 			item_id [9] = 2956
 			item_id [12] = 2961
 			item_id [13] = 2959
 			item_id [14] = 2958
 			item_id [16] = 2960
+			-- Второе перерождение
+			item_id [8] = 6014
+			item_id [9] = 6013
+			item_id [12] = 6018
+			item_id [13] = 6016
+			item_id [14] = 6015
+			item_id [16] = 6017
 			GiveItem ( role, 0, item_id [job] , 1, 4)
 			GiveItem ( role, 0, 1572, 1, 4)
+			GiveItem ( role, 0, 7696, 1, 4)
 			cha_skill_num = cha_skill_num - 2
 		end
 		if QLZX == 1 then
@@ -22841,4 +22850,188 @@ function ItemUse_kyk2 ( role , Item )
 		return
 	end
 	GiveItem ( role , 0 , 4020  , 30 , 4) 
+end
+
+
+--Карта второго перерождения
+function ItemUse_ZSCard2(role, Item )
+	local i = CheckBagItem(role,6019)
+	local k = ChaIsBoat(role)
+	local Item_CanGet = GetChaFreeBagGridNum ( role )
+	local charLv=Lv ( role )
+	if Item_CanGet < 1 then
+		SystemNotice(role ,"Чтобы использовать Карту второго перерождения нужен 1 свободный слот в Вашем инвентаре ")
+		UseItemFailed ( role )
+		return
+	end
+	if charLv<=74  then
+		SystemNotice( role , "Вы должны быть 75 уровня или выше, чтобы использовать Карту перерождения " )
+		UseItemsFailed ( role )
+		return
+	elseif k == 0 then
+		if i > 0 then
+			local j = DelBagItem(role,6019,1) 
+			if j == 1 then
+				GiveItem ( role , 0 , 5765 , 1 , 42)
+				GoTo( role,  1750 , 909 , "jialebi")
+				return
+			end
+		end
+	else
+		UseItemsFailed ( role )
+	end
+	
+end
+
+--
+--Книги навыков второго перерождения
+--
+
+--Книга навыков второго перерождения (Воитель)
+function Sk_Script_Wyz2 ( role , Item ) 											
+	local sk_add = SK_WYZ 
+	local form_sklv = GetSkillLv( role , sk_add ) 
+	  
+--	if form_sklv < 0 or form_sklv == nil then								
+--		return 
+--	end 
+	if form_sklv >= 2  then 
+		UseItemFailed ( role )  
+		return 
+	end
+	local zs_exp = GetChaAttr ( role , ATTR_CSAILEXP )
+	if zs_exp <= 0 then
+		UseItemFailed ( role )  
+		return 
+	end
+	a = AddChaSkill ( role , sk_add, 2 , 2 , 0 ) 
+	if a== 0 then 
+		UseItemFailed ( role )  
+		return 
+	end 
+end
+
+--Книга навыков второго перерождения (Чемпион)
+function Sk_Script_Bsj2 ( role , Item ) 											
+	local sk_add = SK_BSJ 
+	local form_sklv = GetSkillLv( role , sk_add ) 
+	  
+--	if form_sklv < 0 or form_sklv == nil then								
+--		return 
+--	end 
+	if form_sklv >= 2  then 
+		UseItemFailed ( role )  
+		return 
+	end
+	local zs_exp = GetChaAttr ( role , ATTR_CSAILEXP )
+	if zs_exp <= 0 then
+		UseItemFailed ( role )  
+		return 
+	end
+	a = AddChaSkill ( role , sk_add, 2 , 2 , 0 ) 
+	if a== 0 then 
+		UseItemFailed ( role )  
+		return 
+	end 
+end 
+
+--Книга навыков второго перерождения (Колдунья)
+function Sk_Script_Emzz2 ( role , Item ) 											
+	local sk_add = SK_EMZZ 
+	local form_sklv = GetSkillLv( role , sk_add ) 
+	  
+--	if form_sklv < 0 or form_sklv == nil then								
+--		return 
+--	end 
+	if form_sklv >= 2  then 
+		UseItemFailed ( role )  
+		return 
+	end 
+	local zs_exp = GetChaAttr ( role , ATTR_CSAILEXP )
+	if zs_exp <= 0 then
+		UseItemFailed ( role )  
+		return 
+	end
+	a = AddChaSkill ( role , sk_add, 2 , 2 , 0 ) 
+	if a== 0 then 
+		UseItemFailed ( role )  
+		return 
+	end 
+end 
+
+--Книга навыков второго перерождения (Целительница)
+function Sk_Script_Sssp2 ( role , Item ) 											
+	local sk_add = SK_SSSP 
+	local form_sklv = GetSkillLv( role , sk_add ) 
+	  
+--	if form_sklv < 0 or form_sklv == nil then								
+--		return 
+--	end 
+	if form_sklv >= 2  then 
+		UseItemFailed ( role )  
+		return 
+	end
+	local zs_exp = GetChaAttr ( role , ATTR_CSAILEXP )
+	if zs_exp <= 0 then
+		UseItemFailed ( role )  
+		return 
+	end
+	local zs_exp = GetChaAttr ( role , ATTR_CSAILEXP )
+	if zs_exp <= 0 then
+		UseItemFailed ( role )  
+		return 
+	end
+	a = AddChaSkill ( role , sk_add, 2 , 2 , 0 ) 
+	if a== 0 then 
+		UseItemFailed ( role )  
+		return 
+	end 
+end 
+
+--Книга навыков второго перерождения (Покоритель морей)
+function Sk_Script_Cyn2 ( role , Item ) 											
+	local sk_add = SK_CYN 
+	local form_sklv = GetSkillLv( role , sk_add ) 
+	  
+--	if form_sklv < 0 or form_sklv == nil then								
+--		return 
+--	end 
+	if form_sklv >= 2  then 
+		UseItemFailed ( role )  
+		return 
+	end 
+	local zs_exp = GetChaAttr ( role , ATTR_CSAILEXP )
+	if zs_exp <= 0 then
+		UseItemFailed ( role )  
+		return 
+	end
+	a = AddChaSkill ( role , sk_add, 2 , 2 , 0 ) 
+	if a== 0 then 
+		UseItemFailed ( role )  
+		return 
+	end 
+end 
+
+--Книга навыков второго перерождения (Стрелок)
+function Sk_Script_Hlp2 ( role , Item ) 											
+	local sk_add = SK_HLP 
+	local form_sklv = GetSkillLv( role , sk_add ) 
+	  
+--	if form_sklv < 0 or form_sklv == nil then								
+--		return 
+--	end 
+	if form_sklv >= 2  then 
+		UseItemFailed ( role )  
+		return 
+	end 
+	local zs_exp = GetChaAttr ( role , ATTR_CSAILEXP )
+	if zs_exp <= 0 then
+		UseItemFailed ( role )  
+		return 
+	end
+	a = AddChaSkill ( role , sk_add, 2 , 2 , 0 ) 
+	if a== 0 then 
+		UseItemFailed ( role )  
+		return 
+	end 
 end

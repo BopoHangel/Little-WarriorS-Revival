@@ -15501,7 +15501,7 @@ end
 
 function Skill_Rbmp_Unuse( role , sklv ) 
 		local statelv  = sklv  
-	local rb_bonus = (-1) * ( 0.050 + 0.005 * statelv ) -- Бонус 7.5%
+	local rb_bonus = (-1) * ( 0.070 + 0.005 * statelv ) -- Бонус 7.5%
 	local mnatksa  = math.floor (  (MnatkSa (role) + rb_bonus ) * ATTR_RADIX ) 		--Бонус минимальной атаки
 	local mxatksa  = math.floor (  (MxatkSa (role) + rb_bonus ) * ATTR_RADIX )		--Бонус максимальной атаки
 	local defsa    = math.floor (  (DefSa   (role) + rb_bonus ) * ATTR_RADIX ) 		--Бонус защиты
@@ -15512,6 +15512,7 @@ function Skill_Rbmp_Unuse( role , sklv )
 	SetCharaAttr( ResistSa , role , ATTR_STATEC_PDEF  )
 	ALLExAttrSet(role)			 
 end 
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -15574,14 +15575,14 @@ function Skill_Qlzx_End ( ATKER , DEFER , sklv )
 							local map_name = GetChaMapName (t[i])
 							x = math.floor (x*0.01)
 							y = math.floor (y*0.01)
-							if map_name == "prisonisland" or map_name == "mingyun" or map_name == "guildwar" or map_name == "guildwar2" or map_name == "darkswamp" or map_name == "abandonedcity" or map_name == "abandonedcity2" or map_name == "abandonedcity3" then
+							if map_name == "prisonisland" or map_name == "mingyun" or map_name == "darkblue2" or map_name == "garner2" or map_name == "starena33" or map_name == "greh" or map_name == "greh1" or map_name == "guildwar" or map_name == "guildwar2" or map_name == "darkswamp" or map_name == "abandonedcity" or map_name == "abandonedcity2" or map_name == "abandonedcity3" then
 								SystemNotice ( ATKER , "\194\238\231\236\238\230\237\238, \194\224\248\224 \239\238\235\238\226\232\237\234\224 \237\224\245\238\228\232\242\241\255 \237\224 \234\224\240\242\229, \227\228\229 \237\229\235\252\231\255 \232\241\239\238\235\252\231\238\226\224\242\252 \228\224\237\237\238\229 \243\236\229\237\232\229" )
 								--SystemNotice ( ATKER , "Возможно, Ваша половинка находится на карте, где нельзя использовать данное умение" )
 								UseItemFailed ( ATKER )
 								return
 							else
 								local map_name2 = GetChaMapName ( ATKER )
-								if map_name2 == "prisonisland" or map_name2 == "mingyun" or map_name2 == "guildwar" or map_name2 == "guildwar2" or map_name2 == "darkswamp" or map_name2 == "abandonedcity" or map_name2 == "abandonedcity2" or map_name2 == "abandonedcity3" then
+								if map_name2 == "prisonisland" or map_name == "mingyun" or map_name == "darkblue2" or map_name == "garner2" or map_name == "starena33" or map_name == "greh" or map_name == "greh1" or map_name == "guildwar" or map_name == "guildwar2" or map_name == "darkswamp" or map_name == "abandonedcity" or map_name == "abandonedcity2" or map_name == "abandonedcity3" then
 									SystemNotice ( ATKER , "\205\229\235\252\231\255 \232\241\239\238\235\252\231\238\226\224\242\252 \243\236\229\237\232\229 \237\224 \228\224\237\237\238\233 \234\224\240\242\229" )
 									--SystemNotice ( ATKER , Нельзя использовать умение на данной карте" )
 									UseItemFailed ( ATKER )

@@ -9363,22 +9363,22 @@ function GiveItem_zsbook2 ( role )
 		SystemNotice( role ,""..cha_job )
 	if cha_job == 8 then
 		GiveItem( role , 0 , 6014 , 1 , 4 )--книга второго перерождения чемпиона
-		GiveItem( role , 0 , 7696 , 1 , 4 )
+		GiveItem( role , 0 , 2577 , 1 , 4 )
 	elseif cha_job == 9 then
 		GiveItem( role , 0 , 6013 , 1 , 4 )--книга второго перерождения воителя
-		GiveItem( role , 0 , 7696 , 1 , 4 )
+		GiveItem( role , 0 , 2578 , 1 , 4 )
 	elseif cha_job == 12 then
 		GiveItem( role , 0 , 6018 , 1 , 4 )--книга второго перерождения стрелка
-		GiveItem( role , 0 , 7696 , 1 , 4 )
+		GiveItem( role , 0 , 2579 , 1 , 4 )
 	elseif cha_job == 13 then
 		GiveItem( role , 0 , 6016 , 1 , 4 )--книга второго перерождения цилительници
-		GiveItem( role , 0 , 7696 , 1 , 4 )
+		GiveItem( role , 0 , 2582 , 1 , 4 )
 	elseif cha_job == 14 then
 		GiveItem( role , 0 , 6015 , 1 , 4 )--книга второго перерождения колдуньи
-		GiveItem( role , 0 , 7696 , 1 , 4 )
+		GiveItem( role , 0 , 2581 , 1 , 4 )
 	elseif cha_job == 16 then
 		GiveItem( role , 0 , 6017 , 1 , 4 )--книга второго перерождения покорителя морей
-		GiveItem( role , 0 , 7696 , 1 , 4 )
+		GiveItem( role , 0 , 2580 , 1 , 4 )
 	end
 end
 
