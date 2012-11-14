@@ -21403,11 +21403,11 @@ function ItemUse_gemssix(role, Item)
 	return
 	end
 	local items = {}
-	items[0] = 7108
-	items[1] = 7109
-	items[2] = 7110
-	items[3] = 7111
-	items[4] = 7112
+	items[0] = 5771
+	items[1] = 5772
+	items[2] = 5773
+	items[3] = 5774
+	items[4] = 5775
 	--И так далее...
 	local rand = math.random(0,4) --Если бы id предметов было 6, мы бы написали math.random(0,5), если 7 - math.random(0,6)
 	GiveItem(role, 0, items[rand], 1, 0)
