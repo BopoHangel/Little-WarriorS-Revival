@@ -23035,3 +23035,17 @@ function Sk_Script_Hlp2 ( role , Item )
 		return 
 	end 
 end
+
+
+function ItemUse_barier(role, Item)
+	local Item_CanGet = GetChaFreeBagGridNum(role)
+	if Item_CanGet <= 0 then
+	SystemNotice(role, "Недостаточно места в инвентаре. Невозможно открыть сундук.")
+	UseItemFailed(role)
+	return
+	end
+	GiveItem(role, 0, 4938, 30, 0)
+	GiveItem(role, 0, 4957, 30, 0)
+	GiveItem(role, 0, 4976, 30, 0)
+	GiveItem(role, 0, 4974, 10, 0)
+end
