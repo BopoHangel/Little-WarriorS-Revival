@@ -3597,14 +3597,17 @@ function ActionsProc( character, actions, npc, page, misid, scriptid, param1, pa
 				return LUA_FALSE
 			end
 		elseif actions[i].func == GoTo then
-			PRINT( "ActionsProc:GoTo, p1 = , p2 = , p3 = ", actions[i].p1, actions[i].p2, actions[i].p3 )
-			local ret = GoTo( character, actions[i].p1, actions[i].p2, actions[i].p3 )
-			PRINT( "Goto: ret = ", ret )
-			if ret ~= LUA_TRUE then
-				PRINT( "ActionsProc:GoTo failed!" )
-				SystemNotice( character, "ActionsProc:GoTo failed!" )
-				return LUA_FALSE
-			end
+		PRINT( "ActionsProc:GoTo, p1 = , p2 = , p3 = ", actions[i].p1, actions[i].p2, actions[i].p3 )
+		_G[GetChaDefaultName (character).."_goto"] = { x = actions[i].p1, y = actions[i].p2, map = actions[i].p3 }
+    --[[
+            local ret = GoTo( character, actions[i].p1, actions[i].p2, actions[i].p3 )
+            PRINT( "Goto: ret = ", ret )
+            if ret ~= LUA_TRUE then
+                PRINT( "ActionsProc:GoTo failed!" )
+                SystemNotice( character, "ActionsProc:GoTo failed!" )
+                  return LUA_FALSE
+                end
+        ]]--
 		elseif actions[i].func == MultiTrigger then
 			PRINT( "ActionsProc:MultiTrigger, p1, p2 ", actions[i].p1, actions[i].p2 )
 			local ret = MultiTrigger( character, npc, page, actions[i].p1, actions[i].p2 )

@@ -4774,6 +4774,20 @@ function cha_timer(role, freq, time)
  
 	local resume_freq = 5 
 	local now_tick = GetChaParam(role, 1) 
+	
+    local cha_name = GetChaDefaultName (role)
+ 
+    if _G[cha_name.."_goto"] ~= nil then
+		if(_G[cha_name.."_goto"].x ~= nil and _G[cha_name.."_goto"].y ~= nil) then
+            BickerNotice(role,"Пожалуйста подождите,идёт телепорт...")
+            local delay = math.random(3,5) -- Время в секундах, рандом
+        if math.mod(now_tick, delay) == 0 and now_tick > 0 then
+            GoTo(role,_G[cha_name.."_goto"].x,_G[cha_name.."_goto"].y,_G[cha_name.."_goto"].map)
+            _G[cha_name.."_goto"] = nil
+                      end
+                end
+        end	
+	
 	local is_role_living = -1
 
 	SetChaParam(role, 1, now_tick + freq * time) 
