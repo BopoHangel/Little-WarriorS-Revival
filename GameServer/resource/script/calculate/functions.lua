@@ -7947,20 +7947,21 @@ function CheckWeddingTime()
 
 end
 
---[[Функция проверки 
-полного комплекта 95BB Ансилов.]]--
+--[[Функция проверки полного комплекта 95BB Ансилов.]]--
 function CheckItem_ZHONGSHEN ( role )
 
 	local body = GetChaItem ( role , 1 , 2 )
 	local hand = GetChaItem ( role , 1 , 3 )
 	local foot = GetChaItem ( role , 1 , 4 )
 	local head = GetChaItem ( role , 1 , 0 )
+
 	local Body_ID = GetItemID ( body )
 	local Hand_ID = GetItemID ( hand )
 	local Foot_ID = GetItemID ( foot )
 	local Head_ID = GetItemID ( head )
-            local body_gem_id = GetItemAttr ( body , ITEMATTR_VAL_FUSIONID )
-            local hand_gem_id = GetItemAttr ( hand , ITEMATTR_VAL_FUSIONID )
+
+	local body_gem_id = GetItemAttr ( body , ITEMATTR_VAL_FUSIONID )
+	local hand_gem_id = GetItemAttr ( hand , ITEMATTR_VAL_FUSIONID )
 	local foot_gem_id = GetItemAttr ( foot , ITEMATTR_VAL_FUSIONID )
 	local head_gem_id = GetItemAttr ( head , ITEMATTR_VAL_FUSIONID )
 
@@ -7968,16 +7969,16 @@ function CheckItem_ZHONGSHEN ( role )
 		hand_gem_id=Hand_ID
 		foot_gem_id=Foot_ID
 		head_gem_id=Head_ID
-	if body_gem_id ~= 6105 and body_gem_id ~= 6505 and body_gem_id ~= 6113 and body_gem_id ~= 6117 and body_gem_id ~= 6121 and body_gem_id ~= 6125 then
+	if body_gem_id ~= 6105 and body_gem_id ~= 6109 and body_gem_id ~= 6113 and body_gem_id ~= 6117 and body_gem_id ~= 6121 and body_gem_id ~= 6125 then
 	   return 0
 	end
-	if hand_gem_id ~= 6106 and hand_gem_id ~= 6510 and hand_gem_id ~= 6114 and hand_gem_id ~= 6118 and hand_gem_id ~= 6122 and hand_gem_id ~= 6126 then
+	if hand_gem_id ~= 6106 and hand_gem_id ~= 6110 and hand_gem_id ~= 6114 and hand_gem_id ~= 6118 and hand_gem_id ~= 6122 and hand_gem_id ~= 6126 then
 	   return 0
 	end
-	if foot_gem_id ~= 6107 and foot_gem_id ~= 6512 and foot_gem_id ~= 6115 and foot_gem_id ~= 6119 and foot_gem_id ~= 6123 and foot_gem_id ~= 6127 then 
+	if foot_gem_id ~= 6107 and foot_gem_id ~= 6111 and foot_gem_id ~= 6115 and foot_gem_id ~= 6119 and foot_gem_id ~= 6123 and foot_gem_id ~= 6127 then 
 	   return 0
 	end
-	if head_gem_id ~= 6104 and head_gem_id ~= 6108 and head_gem_id ~= 6511 and head_gem_id ~= 6116 and head_gem_id ~= 6120 and head_gem_id ~= 6124 then
+	if head_gem_id ~= 6104 and head_gem_id ~= 6108 and head_gem_id ~= 6112 and head_gem_id ~= 6116 and head_gem_id ~= 6120 and head_gem_id ~= 6124 then
 	   return 0
 	end
 	return 1
