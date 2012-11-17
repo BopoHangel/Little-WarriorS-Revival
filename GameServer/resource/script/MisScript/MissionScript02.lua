@@ -4281,17 +4281,17 @@ function HistoryMission001()
 	DefineMission( 391, "Языковый барьер ", 330 )
 
 
-	MisBeginTalk( "<t> Is that Ai Wen? Long time no see... I'm not not speaking to you, I'm speaking to the Omni-Relevation prescription. Yes, its name is Ai Wen, 500 years ago, a person with a soul was sealed inside this formula that is why it talks!<n><t>Anyway, I'll give you a discount, you only need to pay me <r50000G> for me to complete the potion for you.")
+	MisBeginTalk( "<t> Разве что Ай Вэнь? Давно не виделись ... Я не говорю не с вами, я говорю с рецептом. Да, его зовут Ай Вэнь Цзябао, 500 лет назад, человек с душой был запечатан внутри этой формулы, поэтому он говорит! <n> Во всяком случает я даю вам слово что сделаю зелье, вам нужно всего лишь заплатить мне <r50000 золота> , чтобы завершить зелье.")
 	MisBeginCondition(NoRecord, 30)
 	MisBeginCondition(NoRecord, 330)
 	MisBeginCondition(HasMission, 30)
 	MisBeginAction(AddMission, 330)
-	MisCancelAction(SystemNotice, "This quest cannot be abandoned")
+	MisCancelAction(SystemNotice, "Это задание нельзя отменить ")
 
-	MisNeed(MIS_NEED_DESP, "Collect all ingredient and also <r50000G>")
+	MisNeed(MIS_NEED_DESP, "Соберите все ингредиенты и <r50000 золота>")
 
-	MisResultTalk("<t>Why the hurry? I'm not done yet! I need another 50000G to complete it. Why...Are you taking out your weapon? Okay okayЎ­. I was only joking.<n><t>The potion has already been completed. Here! Take it!<n><t>(You glup down the potion without thinking...)")
-	MisHelpTalk("<t>No money, no potion. It's only 5000!")
+	MisResultTalk("<t>Почему такая спешка? Я ещё не закончил! Мне нужно ещё 50000 золота для завершения. Ладно ладно, я пошутил! Зелье готово, возьмите его!")
+	MisHelpTalk("<t>Нет денег, нет зелья. Только за 50000!")
 	MisResultCondition(HasMission, 330 )
 	MisResultCondition(HasItem, 4938, 30)
 	MisResultCondition(HasItem, 4957, 30)
@@ -4312,9 +4312,8 @@ function HistoryMission001()
 	MisResultAction(AddExpAndType,2,50000,50000)
 	MisResultAction(GiveItem,3908,1,4)	
 	MisResultAction(GiveItem,4708,1,4)
-	MisResultAction(GiveItem,7615,1,4)
-	MisResultAction(GiveItem,7617,1,4)
-	MisResultBagNeed(4)
+	MisResultAction(GiveItem,7616,1,4)
+	MisResultBagNeed(3)
 
 
 ----------------------------Ф¶АґКЗїН

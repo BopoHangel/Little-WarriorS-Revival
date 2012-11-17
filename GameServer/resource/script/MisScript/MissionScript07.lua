@@ -15409,6 +15409,7 @@ print( "Загрузка MissionScript07.lua" )
 	MisResultAction(SetRecord, 1324)
 	MisResultAction(ClearRecord, 1323)	
 	MisResultAction( AddMoney , 5000)
+	MisResultAction(GiveItem, 7615, 1, 4)
 
 
 
