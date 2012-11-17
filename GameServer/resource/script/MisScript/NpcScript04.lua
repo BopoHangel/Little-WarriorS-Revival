@@ -3120,6 +3120,8 @@ function r_talkmo31 ()
 	Other(	1128	) -- heavens berry
 	Other(	3094	) -- Amp of strive
 	Other(	3095	) -- Hi Amp of strive
+	Other(	7822	) -- Hi Amp of strive
+	Other(	7823	) -- Hi Amp of strive
 	Other(	3845	) -- charmed berry
 	Other(	3096	) -- amp of luck
 	Other(	3097	) -- hi amp of luck
