@@ -15602,3 +15602,419 @@ function Skill_Qlzx_End ( ATKER , DEFER , sklv )
 		end
 	end
 end
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------Свечение 85 колец--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--Lv85 BB Cow Кольцо
+function State_BBRING1_Add ( role , statelv ) 
+	local strsb_dif = 10
+	local strsb = StrSb( role ) + strsb_dif
+	SetCharaAttr( strsb , role , ATTR_STATEV_STR )
+
+	local consb_dif = 8
+	local consb = ConSb( role ) + consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+
+	local defsb_dif = 100
+	local defsb = DefSb(role) + defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local fleesb_dif = 10
+	local fleesb = FleeSb(role) + fleesb_dif 
+	SetCharaAttr( fleesb , role , ATTR_STATEV_FLEE )
+	
+	local hitsb_dif = 10
+	local hitsb = HitSb(role) + hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local hrecsb_dif = 6
+	local hrecsb = HrecSb(role) + hrecsb_dif
+	SetCharaAttr( hrecsb , role , ATTR_STATEV_HREC ) 
+
+	local pdef_dif = 4
+	local pdef = ResistSb(role) + pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end 
+
+function State_BBRING1_Rem ( role , statelv )
+	
+	local strsb_dif = 10
+	local strsb = StrSb( role ) - strsb_dif
+	SetCharaAttr( strsb , role , ATTR_STATEV_STR )
+
+	local consb_dif = 8
+	local consb = ConSb( role ) - consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	local defsb_dif = 100
+	local defsb = DefSb(role) - defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+	
+	local fleesb_dif = 10
+	local fleesb = FleeSb(role) - fleesb_dif 
+	SetCharaAttr( fleesb , role , ATTR_STATEV_FLEE )
+	
+	local hitsb_dif = 10
+	local hitsb = HitSb(role) - hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local hrecsb_dif = 6
+	local hrecsb = HrecSb(role) - hrecsb_dif
+	SetCharaAttr( hrecsb , role , ATTR_STATEV_HREC ) 
+
+	local pdef_dif = 4
+	local pdef = ResistSb(role) - pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end
+
+--Lv85 BB Twined Кольцо
+function State_BBRING2_Add ( role , statelv ) 
+	local strsb_dif = 8
+	local strsb = StrSb( role ) + strsb_dif
+	SetCharaAttr( strsb , role , ATTR_STATEV_STR )
+
+	local agisb_dif = 3
+	local agisb = AgiSb( role ) + agisb_dif
+	SetCharaAttr( agisb , role , ATTR_STATEV_AGI )
+	
+	local consb_dif = 8
+	local consb = ConSb( role ) + consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+
+	local defsb_dif = 80
+	local defsb = DefSb(role) + defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local fleesb_dif = 30
+	local fleesb = FleeSb(role) + fleesb_dif 
+	SetCharaAttr( fleesb , role , ATTR_STATEV_FLEE )
+	
+	local hitsb_dif = 10
+	local hitsb = HitSb(role) + hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local hrecsb_dif = 8
+	local hrecsb = HrecSb(role) + hrecsb_dif
+	SetCharaAttr( hrecsb , role , ATTR_STATEV_HREC ) 
+
+	local pdef_dif = 4
+	local pdef = ResistSb(role) + pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end 
+
+function State_BBRING2_Rem ( role , statelv ) 
+	local strsb_dif = 8
+	local strsb = StrSb( role ) - strsb_dif
+	SetCharaAttr( strsb , role , ATTR_STATEV_STR )
+
+	local agisb_dif = 3
+	local agisb = AgiSb( role ) - agisb_dif
+	SetCharaAttr( agisb , role , ATTR_STATEV_AGI )
+	
+	local consb_dif = 8
+	local consb = ConSb( role ) - consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+
+	local defsb_dif = 80
+	local defsb = DefSb(role) - defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local fleesb_dif = 30
+	local fleesb = FleeSb(role) - fleesb_dif 
+	SetCharaAttr( fleesb , role , ATTR_STATEV_FLEE )
+	
+	local hitsb_dif = 10
+	local hitsb = HitSb(role) - hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local hrecsb_dif = 8
+	local hrecsb = HrecSb(role) - hrecsb_dif
+	SetCharaAttr( hrecsb , role , ATTR_STATEV_HREC ) 
+
+	local pdef_dif = 4
+	local pdef = ResistSb(role) - pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end
+
+--Lv85 BB Hunting Кольцо
+function State_BBRING3_Add ( role , statelv ) 
+	
+	local agisb_dif = 4
+	local agisb = AgiSb( role ) + agisb_dif
+	SetCharaAttr( agisb , role , ATTR_STATEV_AGI )
+	
+	local dexsb_dif = 8
+	local dexsb = DexSb( role ) + dexsb_dif
+	SetCharaAttr( dexsb , role , ATTR_STATEV_DEX )
+	
+	local consb_dif = 6
+	local consb = ConSb( role ) + consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	local defsb_dif = 75
+	local defsb = DefSb(role) + defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local fleesb_dif = 15
+	local fleesb = FleeSb(role) + fleesb_dif 
+	SetCharaAttr( fleesb , role , ATTR_STATEV_FLEE )
+	
+	local hitsb_dif = 30
+	local hitsb = HitSb(role) + hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local hrecsb_dif = 6
+	local hrecsb = HrecSb(role) + hrecsb_dif
+	SetCharaAttr( hrecsb , role , ATTR_STATEV_HREC ) 
+
+	local pdef_dif = 3
+	local pdef = ResistSb(role) + pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end 
+
+function State_BBRING3_Rem ( role , statelv ) 
+	local agisb_dif = 4
+	local agisb = AgiSb( role ) - agisb_dif
+	SetCharaAttr( agisb , role , ATTR_STATEV_AGI )
+	
+	local dexsb_dif = 8
+	local dexsb = DexSb( role ) - dexsb_dif
+	SetCharaAttr( dexsb , role , ATTR_STATEV_DEX )
+	
+	local consb_dif = 6
+	local consb = ConSb( role ) - consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	
+	local defsb_dif = 75
+	local defsb = DefSb(role) - defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local fleesb_dif = 15
+	local fleesb = FleeSb(role) - fleesb_dif 
+	SetCharaAttr( fleesb , role , ATTR_STATEV_FLEE )
+	
+	local hitsb_dif = 30
+	local hitsb = HitSb(role) - hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local hrecsb_dif = 6
+	local hrecsb = HrecSb(role) - hrecsb_dif
+	SetCharaAttr( hrecsb , role , ATTR_STATEV_HREC ) 
+
+	local pdef_dif = 3
+	local pdef = ResistSb(role) - pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end
+
+--Lv85 BB Navigating Кольцо
+function State_BBRING4_Add ( role , statelv ) 
+	
+	local consb_dif = 8
+	local consb = ConSb( role ) + consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	local stasb_dif = 10
+	local stasb = StaSb( role ) + stasb_dif
+	SetCharaAttr( stasb , role , ATTR_STATEV_STA )
+	
+	local defsb_dif = 75
+	local defsb = DefSb(role) + defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local hitsb_dif = 30
+	local hitsb = HitSb(role) + hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local hrecsb_dif = 4
+	local hrecsb = HrecSb(role) + hrecsb_dif
+	SetCharaAttr( hrecsb , role , ATTR_STATEV_HREC ) 
+	
+	local srecsb_dif = 2
+	local srecsb = SrecSb(role) + srecsb_dif
+	SetCharaAttr( srecsb , role , ATTR_STATEV_SREC ) 
+
+	local pdef_dif = 3
+	local pdef = ResistSb(role) + pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end 
+
+function State_BBRING4_Rem ( role , statelv ) 
+		
+	local consb_dif = 8
+	local consb = ConSb( role ) - consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	local stasb_dif = 10
+	local stasb = StaSb( role ) - stasb_dif
+	SetCharaAttr( stasb , role , ATTR_STATEV_STA )
+	
+	local defsb_dif = 75
+	local defsb = DefSb(role) - defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local hitsb_dif = 30
+	local hitsb = HitSb(role) - hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local hrecsb_dif = 4
+	local hrecsb = HrecSb(role) - hrecsb_dif
+	SetCharaAttr( hrecsb , role , ATTR_STATEV_HREC ) 
+	
+	local srecsb_dif = 2
+	local srecsb = SrecSb(role) - srecsb_dif
+	SetCharaAttr( srecsb , role , ATTR_STATEV_SREC ) 
+
+	local pdef_dif = 3
+	local pdef = ResistSb(role) - pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end
+
+--Lv85 BB Sealing Кольцо
+function State_BBRING5_Add ( role , statelv ) 
+	
+	local consb_dif = 7
+	local consb = ConSb( role ) + consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	local stasb_dif = 10
+	local stasb = StaSb( role ) + stasb_dif
+	SetCharaAttr( stasb , role , ATTR_STATEV_STA )
+	
+	local defsb_dif = 55
+	local defsb = DefSb(role) + defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local hitsb_dif = 30
+	local hitsb = HitSb(role) + hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local srecsb_dif = 8
+	local srecsb = SrecSb(role) + srecsb_dif
+	SetCharaAttr( srecsb , role , ATTR_STATEV_SREC ) 
+
+	local pdef_dif = 2
+	local pdef = ResistSb(role) + pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end 
+
+function State_BBRING5_Rem ( role , statelv ) 
+		
+	local consb_dif = 7
+	local consb = ConSb( role ) - consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	local stasb_dif = 10
+	local stasb = StaSb( role ) - stasb_dif
+	SetCharaAttr( stasb , role , ATTR_STATEV_STA )
+	
+	local defsb_dif = 55
+	local defsb = DefSb(role) - defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local hitsb_dif = 30
+	local hitsb = HitSb(role) - hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local srecsb_dif = 8
+	local srecsb = SrecSb(role) - srecsb_dif
+	SetCharaAttr( srecsb , role , ATTR_STATEV_SREC ) 
+
+	local pdef_dif = 2
+	local pdef = ResistSb(role) - pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+end
+
+--Lv85 BB Holy Кольцо
+function State_BBRING6_Add ( role , statelv ) 
+	
+	local dexsb_dif = 2
+	local dexsb = DexSb( role ) + dexsb_dif
+	SetCharaAttr( dexsb , role , ATTR_STATEV_DEX )
+	
+	local consb_dif = 3
+	local consb = ConSb( role ) + consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	local stasb_dif = 12
+	local stasb = StaSb( role ) + stasb_dif
+	SetCharaAttr( stasb , role , ATTR_STATEV_STA )
+	
+	local defsb_dif = 55
+	local defsb = DefSb(role) + defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local hitsb_dif = 30
+	local hitsb = HitSb(role) + hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local srecsb_dif = 6
+	local srecsb = SrecSb(role) + srecsb_dif
+	SetCharaAttr( srecsb , role , ATTR_STATEV_SREC ) 
+
+	local pdef_dif = 2
+	local pdef = ResistSb(role) + pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+	
+end 
+
+function State_BBRING6_Rem ( role , statelv ) 
+	
+	local dexsb_dif = 2
+	local dexsb = DexSb( role ) - dexsb_dif
+	SetCharaAttr( dexsb , role , ATTR_STATEV_DEX )
+	
+	local consb_dif = 3
+	local consb = ConSb( role ) - consb_dif
+	SetCharaAttr( consb , role , ATTR_STATEV_CON )
+	
+	local stasb_dif = 12
+	local stasb = StaSb( role ) - stasb_dif
+	SetCharaAttr( stasb , role , ATTR_STATEV_STA )
+	
+	local defsb_dif = 55
+	local defsb = DefSb(role) - defsb_dif
+	SetCharaAttr( defsb , role , ATTR_STATEV_DEF ) 
+
+	local hitsb_dif = 30
+	local hitsb = HitSb(role) - hitsb_dif
+	SetCharaAttr( hitsb , role , ATTR_STATEV_HIT ) 
+
+	local srecsb_dif = 6
+	local srecsb = SrecSb(role) - srecsb_dif
+	SetCharaAttr( srecsb , role , ATTR_STATEV_SREC ) 
+
+	local pdef_dif = 2
+	local pdef = ResistSb(role) - pdef_dif 
+	SetCharaAttr( pdef , role , ATTR_STATEV_PDEF )
+
+	ALLExAttrSet(role)  
+	
+end
