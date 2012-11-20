@@ -892,7 +892,7 @@ print( "‡ Јаг§Є  MissionScript07.lua" )
       MisBeginCondition(NoRecord,1302)
       MisBeginCondition(NoMission,1302)
       MisBeginCondition(HasCredit,9999 )
-      MisBeginAction(TakeCredit, 9999 )
+      --MisBeginAction(TakeCredit, 9999 )
       MisBeginAction(AddMission,1302)
       MisBeginAction(AddTrigger, 13021, TE_KILL,525, 15)--Стремительный лесной охотник
       MisBeginAction(AddTrigger, 13022, TE_KILL,526, 15)--Стремительный призрачный охотник
