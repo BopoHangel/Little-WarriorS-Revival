@@ -3091,7 +3091,6 @@ function r_talkmo1 () -- my ticket selling NPC
 	Other(	5622	)
 	Other(	5623	)
 	Other(	5624	)
-	Other(	5625	)
 	Other(	7794	)
 	Other(	7795	)
 	Other(	7796	)

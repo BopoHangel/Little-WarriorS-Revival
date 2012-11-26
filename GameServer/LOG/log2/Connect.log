@@ -1,5 +1,0 @@
-[06-13 17:16:37]GateServer Connected! IP = [127.0.0.1] port = 1971
-[06-13 17:16:37]ProcessData Gate_Connect
-[06-13 17:16:37]Exec OnGateConnected()
-[06-13 17:16:37][magicsea;]
-[06-13 17:29:44]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [远程主机强迫关闭了一个现有的连接。]

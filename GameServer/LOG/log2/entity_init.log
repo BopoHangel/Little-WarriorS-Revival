@@ -1,9 +1,0 @@
-[06-13 17:16:34]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  84421  368426  -10  3  829  3687  0  
-[06-13 17:16:34]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  236937  75485  -10  8  2376  725  0  
-[06-13 17:16:34]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  176139  377241  -10  9  1730  3775  0  
-[06-13 17:16:34]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  252668  237595  -10  10  2529  2406  0  
-[06-13 17:16:34]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Fungus Spore  472  3  129900  341800  129  4100  1  180  
-[06-13 17:16:34]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Fungus Spore  472  3  123800  342800  129  4100  1  180  
-[06-13 17:16:34]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Fungus Spore  472  3  127800  346700  129  4100  1  180  
-[06-13 17:16:34]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Stolen Chest  456  3  65021  332061  144  4099  1  180  
-[06-13 17:16:34]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Money Box  456  3  106647  295511  144  4101  1  180  
