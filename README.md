@@ -1,4 +1,4 @@
-Little-WarriorS-Revival
+Little-WarriorS-Revival Public
 =======================
 
 Репозиторий серверных файлов MMORPG Tales of Pirates
